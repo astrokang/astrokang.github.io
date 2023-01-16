@@ -2,7 +2,7 @@
 title: "Dark-siren cosmology with decihertz gravitational-wave detectors"
 category: articles
 permalink: /articles/2021-02-28-maintaining-scaling-foss-cscw2021/
-excerpt: "M. Liu, C. Liu, Y.-M. Hu, L. Shao, <b>Y. Kang,</b> <br> <br>"
+excerpt: "M. Liu, C. Liu, Y.-M. Hu, L. Shao, <b>Y. Kang.</b> <br> <br>"
 venue: "Phys. Dark Univ."
 date: 2022-11-12
 ---
