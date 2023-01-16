@@ -3,7 +3,7 @@ title: "Multimessenger detections of binary neutron star mergers powered by deci
 category: articles
 permalink: /articles/2023-02-01-sci-sin-phys-mech-astron/
 excerpt: "<b>Y. Kang</b>, C. Liu, J.-P. Zhu, L. Shao. <br>"
-venue: "<i>Sci. Sin-Phys. Mech. Astron.</i>"
+venue: "Sci. Sin-Phys. Mech. Astron."
 date: 2023-02-01
 ---
 
