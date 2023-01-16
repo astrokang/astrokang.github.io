@@ -11,7 +11,7 @@ header:
 ---
 
 ![]({{ site.url }}/images/kyc_2.png)
-{: .align-right style="width: 150px"} 
+{: .align-right style="width: 180px"} 
 
 Welcome to my website! 
 
