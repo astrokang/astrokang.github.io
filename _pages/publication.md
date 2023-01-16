@@ -11,10 +11,11 @@ header:
 ---
 
 <p>
-In online databases:
+In the online database:
 <span class="archive__item-title">
-<a href="https://orcid.org/0000-0001-7402-4927"><i class="ai ai-fw ai-orcid" aria-hidden="true"></i> ORCiD</a>
-</span>.
+<a href="https://orcid.org/0000-0001-7402-4927"><i class="ai ai-fw ai-orcid" aria-hidden="true"></i> ORCiD</a>.
+</span>
+<br>
 <br>
 I also list my publications below for consistency.
 </p>
@@ -23,6 +24,7 @@ I also list my publications below for consistency.
 # 2023
 
 1. **Kilonova and optical afterglow from binary neutron star mergers. II. Optimal search strategy for serendipitous observations and target-of-opportunity observations of gravitational-wave triggers** 
+  <br>
   <br>
   J.-P. Zhu, 
   S. Wu, 
@@ -36,14 +38,18 @@ I also list my publications below for consistency.
   **Y. Kang**, 
   L. Shao.
   <br>
+  <br>
   *Accepted by Astrophys. J.*
+  <a href="http://arxiv.org/abs/2110.10469" style="color: #F48FB1;">[arXiv]</a>
 
 2. **Multimessenger detections of binary neutron star mergers powered by decihertz gravitational-wave observations (in Chinese)** 
+  <br>
   <br>
   **Y. Kang**,
   C. Liu, 
   J.-P. Zhu, 
   L. Shao.
+  <br>
   <br>
   *Accepted by Sci. China-Phys. Mech. Astron.*
   
@@ -55,21 +61,26 @@ I also list my publications below for consistency.
 
 1.  **Electromagnetic follow-up observations of binary neutron star mergers with early warnings from decihertz gravitational-wave observatories** 
   <br>
+  <br>
   **Y. Kang**,
   C. Liu, 
   L. Shao.
   <br>
-  [Mon. Not. R. Astron. Soc. 515 (2022) 739](https://academic.oup.com/mnras/article-abstract/515/1/739/6615475?redirectedFrom=fulltext&login=false).
+  <br>
+  [Mon. Not. R. Astron. Soc. 515 (2022) 739](https://academic.oup.com/mnras/article-abstract/515/1/739/6615475?redirectedFrom=fulltext&login=false)
 
 2. **Realistic Detection and Early Warning of Binary Neutron Stars with Decihertz Gravitational-wave Observatories** 
+  <br>
   <br>
   C. Liu,
   **Y. Kang**,
   L. Shao.
   <br>
-  [Astrophys. J. 934 (2022) 84](https://iopscience.iop.org/article/10.3847/1538-4357/ac7a39).
+  <br>
+  [Astrophys. J. 934 (2022) 84](https://iopscience.iop.org/article/10.3847/1538-4357/ac7a39)
 
 3. **Dark-siren cosmology with decihertz gravitational-wave detectors** 
+  <br>
   <br>
   M. Liu, 
   C. Liu, 
@@ -77,7 +88,8 @@ I also list my publications below for consistency.
   L. Shao, 
   **Y. Kang**.
   <br>
-  [Phys. Dark Univ. 38 (2022) 101136](https://www.sciencedirect.com/science/article/pii/S2212686422001091?via%3Dihub).
+  <br>
+  [Phys. Dark Univ. 38 (2022) 101136](https://www.sciencedirect.com/science/article/pii/S2212686422001091?via%3Dihub)
 
 {: reversed="reversed"}
 
@@ -87,11 +99,13 @@ I also list my publications below for consistency.
 
 1. **Prospects for detecting exoplanets around double white dwarfs with LISA and Taiji** 
   <br>
+  <br>
   **Y. Kang**,
   C. Liu, 
   L. Shao.
   <br>
-  [Astron. J. 162 (2021) 247](https://iopscience.iop.org/article/10.3847/1538-3881/ac23d8).
+  <br>
+  [Astron. J. 162 (2021) 247](https://iopscience.iop.org/article/10.3847/1538-3881/ac23d8)
   
 {: reversed="reversed"}
 
