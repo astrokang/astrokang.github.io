@@ -2,6 +2,7 @@
 title: "Multimessenger detections of binary neutron star mergers powered by decihertz gravitational-wave observations (in Chinese) (Accepted)"
 category: articles
 permalink: /articles/2023-02-01-sci-sin-phys-mech-astron/
+excerpt:""
 venue: "Sci Sin-Phys Mech Astron"
 date: 2023-02-01
 ---
