@@ -1,8 +1,8 @@
 ---
 title: " Curriculum Vitae"
-date: 2022-10-16
+date: 2023-01-18
 permalink: /cv/
-modified: 2022-10-16
+modified: 2023-01-18
 excerpt:
 tags:
 header:
@@ -15,23 +15,11 @@ header:
 
 | Time         	| Position                   	| School/Institute                	| City                      	| Country 	|
 |--------------	|----------------------------	|---------------------------------	|---------------------------	|---------	|
-| 2018-present 	| PhD student                	| Peking University               	| Beijing                   	| China   	|
-| 2014-2018    	| Undergraduate student      	| Dalian University of Technology 	| Dalian, Liaoning province 	| China   	|
-| 2011-2014    	| Senior high school student 	| Jiayuguan No.1 high school      	| Jiayuguan, Gansu province 	| China   	|
-| 2010-2011    	| Middle school student      	| Yumen No.3 Middle school        	| Yumen, Gansu province     	| China   	|
-| 2008-2010    	| Middle school student      	| Yumen No.2 Middle school        	| Yumen, Gansu province     	| China   	|
-| 2002-2008    	| Primary school student     	| Nongkeng primary school         	| Yumen, Gansu province     	| China   	|
-| 1995         	| Hello World!               	|                                 	| Gulang, Gansu province    	| China   	|
+| 2022-present 	| PhD student                	| Peking University               	| Beijing                   	| China   	|
+| 2018-2022    	| Bachelor Student      	    | Peking University              	| Beijing 	                    | China   	|
+| 2015-2018    	| Senior high school student 	| Changjun High School of Changsha  | Changsha, Hunan province      | China     |
+| 1999         	| Hello World!               	|                                 	| Huaihua, Hunan province    	| China   	|
 
 <br/>
 
-# Full CV
-<hr style="border:1px solid gray"> 
-
-{% include base_path %}
-{% capture written_label %}'None'{% endcapture %}
-
-You can see the embedded PDF below or <u><a href="https://gravyong.github.io/Yong.pdf">download it here.</a></u>
-<br/>
-
-<embed src="https://gravyong.github.io/Yong.pdf" type="application/pdf" width="100%" />
+<b> If you want a full CV, please contact me. </b>
