@@ -1,8 +1,8 @@
 ---
 title: "Publications"
-date: 2022-10-16
+date: 2023-01-18
 permalink: /publication/
-modified: 2022-10-16
+modified: 2023-01-18
 excerpt:
 tags:
 header:
@@ -13,7 +13,8 @@ header:
 <p>
 In online databases:
 <span class="archive__item-title">
-<a href="https://orcid.org/0000-0001-7402-4927"><i class="ai ai-fw ai-orcid" aria-hidden="true"></i> ORCiD</a>.
+<a href="https://orcid.org/0000-0001-7402-4927"><i class="ai ai-fw ai-orcid" aria-hidden="true"></i> ORCiD</a>
+</span>.
 <br>
 I also list my publications below for consistency.
 </p>
