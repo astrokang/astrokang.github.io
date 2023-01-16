@@ -13,11 +13,11 @@ header:
 # My Worldline
 <hr style="border:1px solid gray"> 
 
-| Time         	| Position                   	| School/Institute                	| City                      	| Country 	|
-|--------------	|----------------------------	|---------------------------------	|---------------------------	|---------	|
-| 2022-present  | PhD student                	| Peking University               	| Beijing                   	| China   	|
-| 2018-2022     | Bachelor Student      	    | Peking University              	| Beijing 	                    | China   	|
-| 2015-2018 	| Senior high school student 	| Changjun High School of Changsha  | Changsha, Hunan province      | China     |
-| 1999         	| Hello World!               	|                                 	| Huaihua, Hunan province    	| China   	|
+| Time         	  | Position                   	 | School/Institute                	 | City                      	 | Country 	|
+|--------------	  |----------------------------	 |---------------------------------	 |---------------------------	 |---------	|
+| 2022-present    | PhD student                	 | Peking University               	 | Beijing                   	 | China   	|
+| 2018-2022       | Bachelor Student      	     | Peking University              	 | Beijing 	                     | China    |
+| 2015-2018 	  | Senior high school student 	 | Changjun High School of Changsha  | Changsha, Hunan province      | China    |
+| 1999         	  | Hello World!               	 |                                 	 | Huaihua, Hunan province    	 | China   	|
 
 <b> If you want a full CV, please contact me. </b>
