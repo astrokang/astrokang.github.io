@@ -1,5 +1,5 @@
 ---
-title: "Publications"
+title: "Publication"
 date: 2023-01-18
 permalink: /publication/
 modified: 2023-01-18
