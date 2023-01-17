@@ -10,7 +10,7 @@ header:
     overlay_filter: 0.1 
 ---
 
-# Research Interests:
+# Research Interest:
 
 <hr style="border:1px solid gray">
 
@@ -31,32 +31,32 @@ header:
 # 2022
 
 * The <a style="color: #007DD9;"><b>First Prize</b></a> for the 5th Chinese undergraduate Astronomical Innovation Contest (CAIC)  
-  <font color="#CF4C73"><b>(Aug. 2022)</b></font>
+  <br><font color="#CF4C73"><b>(Aug. 2022)</b></font>
 
 * The 2022 <a style="color: #007DD9;"><b>Wei-Ming Bachelor Award</b></a> in Peking University  
-  <font color="#CF4C73"><b>(June 2022)</b></font>
+  <br><font color="#CF4C73"><b>(June 2022)</b></font>
 
 * The <a style="color: #007DD9;"><b>Winning Prize</b></a> for the 20th Zhong-Sheng-Biao Postgraduate Symposium in School of Physics, Peking University  
-  <font color="#CF4C73"><b>(June 2022)</b></font>
+  <br><font color="#CF4C73"><b>(June 2022)</b></font>
 
 * The <a style="color: #007DD9;"><b>Grand Prize</b></a> for the 30th Challenge Cup in Peking University  
-  <font color="#CF4C73"><b>(May 2022)</b></font>
+  <br><font color="#CF4C73"><b>(May 2022)</b></font>
 
 * The <a style="color: #007DD9;"><b>First Prize</b></a> and the <a style="color: #007DD9;"><b>Best Presentation Award</b></a> for the 7th Xing-Cheng Undergraduate  
-  <font color="#CF4C73"><b>(May 2022)</b></font>
+  <br><font color="#CF4C73"><b>(May 2022)</b></font>
 
 * The <a style="color: #007DD9;"><b>Excellent Project Award</b></a> for Undergraduate Research Study in Peking University  
-  <font color="#CF4C73"><b>(Mar. 2022)</b></font>
+  <br><font color="#CF4C73"><b>(Mar. 2022)</b></font>
 
 <hr style="border:1px solid gray">
 
 # 2021
 
 * The <a style="color: #007DD9;"><b>First Prize</b></a> of LinbridgePrize for Excellent Undergraduate Research Projects in Astronomy and Astrophysics, Peking University  
-  <font color="#CF4C73"><b>(Sep. 2022)</b></font>
+  <br><font color="#CF4C73"><b>(Sep. 2022)</b></font>
 
 * <a style="color: #007DD9;"><b>Hui-Chun Chin and Tsung-Dao Lee Chinese Undergraduate Research Endowment (CURE)</b></a>
-  <font color="#CF4C73"><b>(Apr. 2022)</b></font>
+  <br><font color="#CF4C73"><b>(Apr. 2022)</b></font>
 
 <hr style="border:1px solid gray">
 
