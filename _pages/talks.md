@@ -42,7 +42,7 @@ header:
 * **The 20th Zhong-Sheng-Biao Postgraduate Symposium (Online)** 
   <br>
   <br>
-  <a style="color: #007DD9;"><b>Oral Presentation</b></a>: Multi-messenger early-warning detections of binary neutron star mergers  
+  <a style="color: #007DD9;"><b>Oral Presentation</b></a>: Multi-messenger early-warning detections of binary neutron star mergers
   <br><font color="#CF4C73"><b>(June 2022)</b></font>
 
 * **The 30th Challenge Cup in Peking University (Online)** 
