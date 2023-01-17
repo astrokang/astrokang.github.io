@@ -40,7 +40,7 @@ I also list my publications below for consistency.
   <br>
   <br>
   *Accepted by Astrophys. J.*
-  <a href="http://arxiv.org/abs/2110.10469" style="color: #F48FB1;">[arXiv]</a>
+  <a href="http://arxiv.org/abs/2110.10469" style="color: #CF4C73;">[arXiv]</a>
 
 2. **Multimessenger detections of binary neutron star mergers powered by decihertz gravitational-wave observations (in Chinese)** 
   <br>
