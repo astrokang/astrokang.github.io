@@ -12,10 +12,13 @@ header:
 
 # 2022
 
-* <b> <font color="#FF0000">The 8th ACAMAR Workshop (Online)</font> </b> 
-<br>
-<br>
-**Oral presentation**: Electromagnetic follow-up observations of binary neutron star mergers 
+* <b> 
+  <font color="#002FA7">The 8th ACAMAR Workshop (Online)
+  </font>
+  </b>
+  <br>
+  <br>
+  **Oral presentation**: Electromagnetic follow-up observations of binary neutron star mergers 
                        with early warnings from decihertz gravitational-wave observatories  **(Oct. 2022)**
 
 * **The 5th CAIC (XingLong, Hebei, China)** 
