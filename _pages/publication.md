@@ -23,7 +23,18 @@ I also list my publications below for consistency.
 
 # 2023
 
-1. **Kilonova and optical afterglow from binary neutron star mergers. II. Optimal search strategy for serendipitous observations and target-of-opportunity observations of gravitational-wave triggers** 
+1. **Multimessenger detections of binary neutron star mergers powered by decihertz gravitational-wave observations (in Chinese)** 
+  <br>
+  <br>
+  **Y. Kang**,
+  C. Liu, 
+  J.-P. Zhu, 
+  L. Shao.
+  <br>
+  <br>
+  *Accepted by Sci. China-Phys. Mech. Astron.*
+
+2. **Kilonova and optical afterglow from binary neutron star mergers. II. Optimal search strategy for serendipitous observations and target-of-opportunity observations of gravitational-wave triggers** 
   <br>
   <br>
   J.-P. Zhu, 
@@ -41,18 +52,6 @@ I also list my publications below for consistency.
   <br>
   *Accepted by Astrophys. J.*
   <a href="http://arxiv.org/abs/2110.10469" style="color: #F48FB1;">[arXiv]</a>
-
-2. **Multimessenger detections of binary neutron star mergers powered by decihertz gravitational-wave observations (in Chinese)** 
-  <br>
-  <br>
-  **Y. Kang**,
-  C. Liu, 
-  J.-P. Zhu, 
-  L. Shao.
-  <br>
-  <br>
-  *Accepted by Sci. China-Phys. Mech. Astron.*
-  
 {: reversed="reversed"}
 
 ---
@@ -90,7 +89,6 @@ I also list my publications below for consistency.
   <br>
   <br>
   [Phys. Dark Univ. 38 (2022) 101136](https://www.sciencedirect.com/science/article/pii/S2212686422001091?via%3Dihub)
-
 {: reversed="reversed"}
 
 ---
@@ -107,6 +105,4 @@ I also list my publications below for consistency.
   <br>
   [Astron. J. 162 (2021) 247](https://iopscience.iop.org/article/10.3847/1538-3881/ac23d8)
   
-{: reversed="reversed"}
-
 
