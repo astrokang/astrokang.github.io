@@ -15,10 +15,11 @@ header:
 * **The 8th ACAMAR Workshop (Online)**
   <br>
   <br>
-  <font color="#007DD9"><b>Oral Presentation</b></font> Electromagnetic follow-up observations of binary neutron star mergers with early warnings from decihertz gravitational-wave observatories
-  <a style="color: #CF4C73;"><b>[Oct. 2022]</b></a>
+  <a style="color: #007DD9;"><b>Oral Presentation</b></a>: Electromagnetic follow-up observations of binary neutron star mergers with early warnings from decihertz gravitational-wave observatories
+  <font color="#CF4C73"><b>(Oct. 2022)</b></font>
 
 * **The 5th CAIC (XingLong, Hebei, China)** 
+  <br>
   <br>
   <font color="#007DD9"><b>Oral Presentation</b></font>: Multi-messenger early-warning detections of binary neutron star mergers  
   <font color="#CF4C73"><b>(Aug. 2022)</b></font>
