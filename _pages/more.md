@@ -1,5 +1,5 @@
 ---
-title: "More AboutMe"
+title: "More About Me"
 date: 2023-01-18
 permalink: /more/
 modified: 2023-01-18
