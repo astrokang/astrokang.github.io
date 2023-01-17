@@ -12,10 +12,7 @@ header:
 
 # 2022
 
-* <b> 
-  <font color="#002FA7">The 8th ACAMAR Workshop (Online)
-  </font>
-  </b>
+* <font color="#002FA7"><b>The 8th ACAMAR Workshop (Online)</b></font>
   <br>
   <br>
   **Oral presentation**: Electromagnetic follow-up observations of binary neutron star mergers 
