@@ -58,7 +58,6 @@ header:
 * <a style="color: #007DD9;"><b>Hui-Chun Chin and Tsung-Dao Lee Chinese Undergraduate Research Endowment (CURE)</b></a>
   <br><font color="#CF4C73"><b>(Apr. 2022)</b></font>
 
-<hr style="border:1px solid gray">
 
 
 
