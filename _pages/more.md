@@ -1,7 +1,7 @@
 ---
 title: "More about me"
 date: 2023-01-18
-permalink: /talks/
+permalink: /more/
 modified: 2023-01-18
 excerpt:
 tags:
