@@ -70,7 +70,7 @@ I also list my publications below for consistency.
   <br>
   [Phys. Dark Univ. 38 (2022) 101136](https://www.sciencedirect.com/science/article/pii/S2212686422001091?via%3Dihub)
 
-2. **Realistic Detection and Early Warning of Binary Neutron Stars with Decihertz Gravitational-wave Observatories** 
+2. **Realistic detection and early warning of binary neutron stars with decihertz gravitational-wave observatories** 
   <br>
   <br>
   C. Liu,
