@@ -23,18 +23,7 @@ I also list my publications below for consistency.
 
 # 2023
 
-1. **Multimessenger detections of binary neutron star mergers powered by decihertz gravitational-wave observations (in Chinese)** 
-  <br>
-  <br>
-  **Y. Kang**,
-  C. Liu, 
-  J.-P. Zhu, 
-  L. Shao.
-  <br>
-  <br>
-  *Accepted by Sci. China-Phys. Mech. Astron.*
-
-2. **Kilonova and optical afterglow from binary neutron star mergers. II. Optimal search strategy for serendipitous observations and target-of-opportunity observations of gravitational-wave triggers** 
+1. **Kilonova and optical afterglow from binary neutron star mergers. II. Optimal search strategy for serendipitous observations and target-of-opportunity observations of gravitational-wave triggers** 
   <br>
   <br>
   J.-P. Zhu, 
@@ -52,21 +41,34 @@ I also list my publications below for consistency.
   <br>
   *Accepted by Astrophys. J.*
   <a href="http://arxiv.org/abs/2110.10469" style="color: #F48FB1;">[arXiv]</a>
+
+2. **Multimessenger detections of binary neutron star mergers powered by decihertz gravitational-wave observations (in Chinese)** 
+  <br>
+  <br>
+  **Y. Kang**,
+  C. Liu, 
+  J.-P. Zhu, 
+  L. Shao.
+  <br>
+  <br>
+  *Accepted by Sci. China-Phys. Mech. Astron.*
 {: reversed="reversed"}
 
 ---
 
 # 2022
 
-1.  **Electromagnetic follow-up observations of binary neutron star mergers with early warnings from decihertz gravitational-wave observatories** 
+1.  **Dark-siren cosmology with decihertz gravitational-wave detectors** 
   <br>
   <br>
-  **Y. Kang**,
+  M. Liu, 
   C. Liu, 
-  L. Shao.
+  Y.-M. Hu, 
+  L. Shao, 
+  **Y. Kang**.
   <br>
   <br>
-  [Mon. Not. R. Astron. Soc. 515 (2022) 739](https://academic.oup.com/mnras/article-abstract/515/1/739/6615475?redirectedFrom=fulltext&login=false)
+  [Phys. Dark Univ. 38 (2022) 101136](https://www.sciencedirect.com/science/article/pii/S2212686422001091?via%3Dihub)
 
 2. **Realistic Detection and Early Warning of Binary Neutron Stars with Decihertz Gravitational-wave Observatories** 
   <br>
@@ -78,17 +80,15 @@ I also list my publications below for consistency.
   <br>
   [Astrophys. J. 934 (2022) 84](https://iopscience.iop.org/article/10.3847/1538-4357/ac7a39)
 
-3. **Dark-siren cosmology with decihertz gravitational-wave detectors** 
+3. **Electromagnetic follow-up observations of binary neutron star mergers with early warnings from decihertz gravitational-wave observatories** 
   <br>
   <br>
-  M. Liu, 
+  **Y. Kang**,
   C. Liu, 
-  Y.-M. Hu, 
-  L. Shao, 
-  **Y. Kang**.
+  L. Shao.
   <br>
   <br>
-  [Phys. Dark Univ. 38 (2022) 101136](https://www.sciencedirect.com/science/article/pii/S2212686422001091?via%3Dihub)
+  [Mon. Not. R. Astron. Soc. 515 (2022) 739](https://academic.oup.com/mnras/article-abstract/515/1/739/6615475?redirectedFrom=fulltext&login=false)
 {: reversed="reversed"}
 
 ---
