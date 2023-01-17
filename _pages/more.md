@@ -1,5 +1,5 @@
 ---
-title: "More about me"
+title: "More AboutMe"
 date: 2023-01-18
 permalink: /more/
 modified: 2023-01-18
@@ -10,21 +10,21 @@ header:
     overlay_filter: 0.1 
 ---
 
-Research Interests:
+# Research Interests:
 
 <hr style="border:1px solid gray">
 
-* **Gravitational waves**
+* **Compact Stars**
 
-* **Multi-messenger astronomy**
+* **Gravitational Waves**
 
-* **High-energy astrophysics**
+* **High-energy Astrophysics**
 
-* **Compact stars**
+* **Multi-messenger Astronomy**
 
-<hr style="border:1px solid gray">
 
-Award:
+
+# Award:
 
 <hr style="border:1px solid gray">
 
@@ -49,10 +49,6 @@ Award:
 * The **First Prize** of LinbridgePrize for Excellent Undergraduate Research Projects in Astronomy and Astrophysics, Peking University  **(Sep. 2022)**
 
 * Hui-Chun Chin and Tsung-Dao Lee Chinese Undergraduate Research Endowment (CURE)  **(Apr. 2022)**
-
-<hr style="border:1px solid gray">
-
-Award:
 
 <hr style="border:1px solid gray">
 
