@@ -18,7 +18,7 @@ header:
   <a style="color: #007DD9;"><b>Oral Presentation</b></a>: Electromagnetic follow-up observations of binary neutron star mergers with early warnings from decihertz gravitational-wave observatories
   <br><font color="#CF4C73"><b>(Oct. 2022)</b></font>
 
-* **The 5th CAIC (XingLong, Hebei, China)** 
+* **The 5th CAIC (Xinglong, Hebei, China)** 
   <br>
   <br>
   <a style="color: #007DD9;"><b>Oral Presentation</b></a>: Multi-messenger early-warning detections of binary neutron star mergers
