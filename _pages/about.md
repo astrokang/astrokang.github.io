@@ -15,9 +15,9 @@ header:
 
 Welcome to my website! 
 
-I am currently a PhD student in the [gravitational astrophysics](https://kiaagravity.github.io/about/) group 
+I am currently a <a style="color: #CF4C73;"><b>PhD student</b></a> in the [gravitational astrophysics](https://kiaagravity.github.io/about/) group 
 of [Lijing Shao](http://friendshao.github.io/about/) at the [Peking University](https://english.pku.edu.cn/).
-My research interests center around multi-messenger astronomy and high-energy astrophysics. 
+My research interests center around <a style="color: #CF4C73;"><b>multi-messenger astronomy</b></a> and <a style="color: #CF4C73;"><b>high-energy astrophysics</b></a>. 
 For now, I mainly focus on the gravitational-wave detections and compact stars. 
 My [What's more]({{ site.url }}/more/) page could help you to know me more! ^_^ 
 
