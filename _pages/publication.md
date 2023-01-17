@@ -35,7 +35,7 @@ I also list my publications below for consistency.
   H. Gao, 
   Z. Cao, 
   Y.-W. Yu, 
-  **Y. Kang**, 
+  <a style="color: #007DD9;"><b>Y. Kang</b></a>, 
   L. Shao.
   <br>
   <br>
@@ -45,7 +45,7 @@ I also list my publications below for consistency.
 2. **Multimessenger detections of binary neutron star mergers powered by decihertz gravitational-wave observations (in Chinese)** 
   <br>
   <br>
-  **Y. Kang**,
+  <a style="color: #007DD9;"><b>Y. Kang</b></a>,
   C. Liu, 
   J.-P. Zhu, 
   L. Shao.
@@ -65,7 +65,7 @@ I also list my publications below for consistency.
   C. Liu, 
   Y.-M. Hu, 
   L. Shao, 
-  **Y. Kang**.
+  <a style="color: #007DD9;"><b>Y. Kang</b></a>.
   <br>
   <br>
   [Phys. Dark Univ. 38 (2022) 101136](https://www.sciencedirect.com/science/article/pii/S2212686422001091?via%3Dihub)
@@ -74,7 +74,7 @@ I also list my publications below for consistency.
   <br>
   <br>
   C. Liu,
-  **Y. Kang**,
+  <a style="color: #007DD9;"><b>Y. Kang</b></a>,
   L. Shao.
   <br>
   <br>
@@ -83,7 +83,7 @@ I also list my publications below for consistency.
 3. **Electromagnetic follow-up observations of binary neutron star mergers with early warnings from decihertz gravitational-wave observatories** 
   <br>
   <br>
-  **Y. Kang**,
+  <a style="color: #007DD9;"><b>Y. Kang</b></a>,
   C. Liu, 
   L. Shao.
   <br>
@@ -98,7 +98,7 @@ I also list my publications below for consistency.
 1. **Prospects for detecting exoplanets around double white dwarfs with LISA and Taiji** 
   <br>
   <br>
-  **Y. Kang**,
+  <a style="color: #007DD9;"><b>Y. Kang</b></a>,
   C. Liu, 
   L. Shao.
   <br>
