@@ -10,39 +10,83 @@ header:
     overlay_filter: 0.1 
 ---
 
-# Invited talks 
+# 2022
+
+* **The 8th ACAMAR Workshop (Online)** 
+<br>
+<br>
+Oral presentation: *Electromagnetic follow-up observations of binary neutron star mergers 
+                    with early warnings from decihertz gravitational-wave observatories*, (Oct. 2022)
+
+* **The 5th CAIC (XingLong, Hebei, China)** 
+<br>
+<br>
+Oral presentation: *Multi-messenger Early-Warning Detections of Binary Neutron Star Mergers*, (Aug. 2022)
+
+* **The Lin-Bridge Exoplanet Symposium (Nanjing, Jiangsu, China)** 
+<br>
+<br>
+Oral presentation: *Prospects for detecting exoplanets around double white dwarfs with LISA and Taiji*, (July 2022)
+
+* **The 14th LISA SYMPOSIUM (Online)** 
+<br>
+<br>
+Pre-recorded Talk: *Prospects for detecting exoplanets around double white dwarfs with LISA and Taiji*, (July 2022)
+<br>
+Pre-recorded Talk: *Multi-messenger Early-Warning Detections of Binary Neutron Star Mergers*, (July 2022)
+
+* **The 20th Zhong-Sheng-Biao Postgraduate Symposium (Online)** 
+<br>
+<br>
+Oral presentation: *Multi-messenger Early-Warning Detections of Binary Neutron Star Mergers*, (June 2022)
+
+* **The 30th Challenge Cup in Peking University (Online)** 
+<br>
+<br>
+Oral presentation: *Prospects for detecting exoplanets around double white dwarfs with LISA and Taiji*, (May 2022)
+
+* **The 7th Xing-Cheng Undergraduate Symposium (Online)** 
+<br>
+<br>
+Oral presentation: *Prospects for detecting exoplanets around double white dwarfs with LISA and Taiji*, (May 2022)
+
+* **The GWADW2022 (Online)** 
+<br>
+<br>
+Poster presentation: *Prospects for detecting exoplanets around double white dwarfs with LISA and Taiji*, (May 2022)
+
 <hr style="border:1px solid gray">
 
-* Probing neutron star structures with gravitational dynamics, online Seminar, **Yang Zhou University**, September 2022. 
-  <!-- <a href="http://arxiv.org/abs/2109.13234" style="color: #F48FB1;">Slides</a> -->
+# 2021
 
-* CuiYing Graduate Student Salon, online Seminar, **Peking University**, February 2021.
-* Deformed neutron stars and their characteristics in electromagnetic and gravitational radiation, online Colloquium, **Max Planck Institut f. Gravitationsphysik**, September 2020.
-* Deformed neutron stars and their characteristics in electromagnetic and gravitational radiation, **University of Tartu**, online Colloquium, October 2020.
-  
----
+* **2021 Annual Meeting of Chinese Astronomical Society (Online)** 
+<br>
+<br>
+Oral presentation: *Prospects for detecting exoplanets around double white dwarfs with LISA and Taiji*, (Dec. 2021)
 
-# Contributed talks in conferences
-<hr style="border:1px solid gray">
- 
-* Rotation and tidal deformation of NSs in General Relativity and massive scalar-tensor gravity, talk, **SKA Pulsar Science Symposium 2022**, Xiangtan, China, August 2022.
+* **The 7th ACAMAR Workshop (Online)** 
+<br>
+<br>
+Poster presentation: *Prospects for detecting exoplanets around double white dwarfs with LISA and Taiji*, (Nov. 2022)
 
-* Precession of magnetars: dynamical evolutions and modulations on polarized electromagnetic waves, talk, **FAST/Future Pulsar Symposium 11**, Xiangtan, China, August 2022.
+* **The 23rd Annual Meeting of CURE (Online)** 
+<br>
+<br>
+Oral presentation: *Prospects for detecting exoplanets around double white dwarfs with LISA and Taiji*, (Nov. 2021)
 
-* Rotation, tidal deformation, and oscillation of strangeon stars, talk, **Summer Science Day**, Peking University, Beijing, China, July 2022.
+* **2021 PKU-DoA Undergraduate Astronomy Symposium (Beijing, China)** 
+<br>
+<br>
+Oral presentation: *Prospects for detecting exoplanets around double white dwarfs with LISA and Taiji*, (Nov. 2021)
 
-* Precession of magnetars: dynamical evolutions and modulations on polarized electromagnetic waves, talk, **The 60th Anniversary of X-Ray Astronomy**, Beijing, China, June 2022.
+* **The 1st National Conference on Planetary Science (Suzhou, Jiangsu, China)** 
+<br>
+<br>
+Poster presentation: *Prospects for detecting exoplanets around double white dwarfs with LISA and Taiji*, (June 2021)
 
-* Precession of neutron stars under Lorentz violation: Signatures in pulsar and continuous gravitational-wave observations, online talk, **Ninth meeting on CPT and Lorentz symmetry**, Indiana University, Bloomington, USA, May, 2022
 
-* Rotation and deformation of strangeon stars, talk, **FAST/Future Pulsar Symposium 10**, Jinan, China, July 2021.
-  
-* Rotation and deformation of strangeon stars, talk, **Gravitation and Relativistic Astrophysics**, Shenyang, China, April 2021.
 
-* Free precession of neutron stars, talk, **Gravitation and Cosmology Symposium**, Chongqing, China, December 2020.
 
-* Triaxially-deformed Freely-precessing Neutron Stars: Continuous electromagnetic and gravitational radiation, **FAST/Future Pulsar Symposium 9**, Xiamen, China, August 2020
-  
 
-# Group meeting presentations
-<hr style="border:1px solid gray">
+
+
