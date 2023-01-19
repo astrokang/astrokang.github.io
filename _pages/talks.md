@@ -33,10 +33,10 @@ header:
 * **The 14th LISA SYMPOSIUM (Online)** 
   <br>
   <br>
-  <a style="color: #2FC193;"><b>Pre-recorded Talk</b></a>: Prospects for detecting exoplanets around double white dwarfs with LISA and Taiji
+  <a style="color: #A95886;"><b>Pre-recorded Talk</b></a>: Prospects for detecting exoplanets around double white dwarfs with LISA and Taiji
   <br>
   <br>
-  <a style="color: #2FC193;"><b>Pre-recorded Talk</b></a>: Multi-messenger early-warning detections of binary neutron star mergers
+  <a style="color: #A95886;"><b>Pre-recorded Talk</b></a>: Multi-messenger early-warning detections of binary neutron star mergers
   <br><font color="#CF4C73"><b>(July 2022)</b></font>
 
 * **The 20th Zhong-Sheng-Biao Postgraduate Symposium (Online)** 
