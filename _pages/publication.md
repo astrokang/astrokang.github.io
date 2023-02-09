@@ -13,7 +13,7 @@ header:
 <p>
 In the online database:
 <span class="archive__item-title">
-<a href="https://orcid.org/0000-0001-7402-4927"><i class="ai ai-fw ai-orcid" aria-hidden="true"></i> ORCiD</a>.
+<a href="https://orcid.org/0000-0001-7402-4927" style="color: #ADCC54;"> ORCiD</a>.
 </span>
 <br>
 <br>
