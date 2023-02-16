@@ -23,7 +23,33 @@ I also list my publications below for consistency.
 
 # 2023
 
-1. **Kilonova and optical afterglow from binary neutron star mergers. II. Optimal search strategy for serendipitous observations and target-of-opportunity observations of gravitational-wave triggers** 
+1. **Prospects for detecting neutron star-white dwarf mergers: early warnings from decihertz gravitational-wave observatories** 
+  <br>
+  <br>
+  <a style="color: #007DD9;"><b>Y. Kang</b></a>,
+  C. Liu, 
+  J.-P. Zhu, 
+  Y. Gao,
+  L. Shao,
+  B. Zhang,
+  H. Sun.
+  <br>
+  <br>
+  *In preparation*
+
+2. **Multimessenger detections of binary neutron star mergers powered by decihertz gravitational-wave observations (in Chinese)** 
+  <br>
+  <br>
+  <a style="color: #007DD9;"><b>Y. Kang</b></a>,
+  C. Liu, 
+  J.-P. Zhu, 
+  L. Shao.
+  <br>
+  <br>
+  *Accepted by Sci. China-Phys. Mech. Astron.*
+  <a href="http://engine.scichina.com/doi/10.1360/SSPMA-2022-0428" style="color: #CF4C73;">[arXiv]</a>
+  
+3. **Kilonova and optical afterglow from binary neutron star mergers. II. Optimal search strategy for serendipitous observations and target-of-opportunity observations of gravitational-wave triggers** 
   <br>
   <br>
   J.-P. Zhu, 
@@ -39,19 +65,7 @@ I also list my publications below for consistency.
   L. Shao.
   <br>
   <br>
-  *Accepted by Astrophys. J.*
-  <a href="http://arxiv.org/abs/2110.10469" style="color: #CF4C73;">[arXiv]</a>
-
-2. **Multimessenger detections of binary neutron star mergers powered by decihertz gravitational-wave observations (in Chinese)** 
-  <br>
-  <br>
-  <a style="color: #007DD9;"><b>Y. Kang</b></a>,
-  C. Liu, 
-  J.-P. Zhu, 
-  L. Shao.
-  <br>
-  <br>
-  *Accepted by Sci. China-Phys. Mech. Astron.*
+  [Astrophys. J. 942 (2023) 88](https://iopscience.iop.org/article/10.3847/1538-4357/aca527)
 {: reversed="reversed"}
 
 ---
