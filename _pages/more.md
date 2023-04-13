@@ -63,10 +63,10 @@ header:
 <hr style="border:1px solid gray">
 
 * <a href="http://cgc.yzu.edu.cn/info/1014/1582.htm" style="color: #007DD9;">Prof. Cheng-Jun Xia</a> in Yangzhou University, CN
-* <br><font color="#CF4C73"><b>(Apr. 2023)</b></font>
+  <br><font color="#CF4C73"><b>(Apr. 2023)</b></font>
 
 * <a href="https://sharonxuesongwang.wordpress.com" style="color: #007DD9;">Prof. Xuesong Wang</a> in Tsinghua University, CN
-* <br><font color="#CF4C73"><b>(Feb. 2021 − Jan. 2022)</b></font>
+  <br><font color="#CF4C73"><b>(Feb. 2021 − Jan. 2022)</b></font>
 
 
 
