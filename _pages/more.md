@@ -27,6 +27,13 @@ header:
 
 <hr style="border:1px solid gray">
 
+# 2023
+
+* The <a style="color: #007DD9;"><b>President Scholarship</b></a> for PhD Students in Peking University
+  <br><font color="#CF4C73"><b>(June 2023)</b></font>
+
+<hr style="border:1px solid gray">
+
 # 2022
 
 * The <a style="color: #007DD9;"><b>First Prize</b></a> for the 5th Chinese undergraduate Astronomical Innovation Contest (CAIC)
