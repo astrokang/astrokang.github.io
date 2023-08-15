@@ -19,7 +19,7 @@ header:
   <br>
   <br>
   <a style="color: #00DCB1;"><b>Poster Presentation</b></a>: Prospects for detecting exoplanets around double white dwarfs with LISA and Taiji
-  <br><font color="#CF4C73"><b>(Aug. 2023)</b></font>
+  <br><font color="#CF4C73"><b>(Aug. 2023)</b></font> 
 
 * **The 8th ACAMAR Workshop (Online)**
   <br>
