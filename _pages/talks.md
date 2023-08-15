@@ -16,6 +16,9 @@ header:
   <br>
   <br>
   <a style="color: #007DD9;"><b>Oral Presentation</b></a>: Electromagnetic follow-up observations of binary neutron star mergers with early warnings from decihertz gravitational-wave observatories
+  <br>
+  <br>
+  <a style="color: #00DCB1;"><b>Poster Presentation</b></a>: Prospects for detecting exoplanets around double white dwarfs with LISA and Taiji
   <br><font color="#CF4C73"><b>(Aug. 2023)</b></font>
 
 * **The 8th ACAMAR Workshop (Online)**
