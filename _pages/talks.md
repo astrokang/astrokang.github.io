@@ -12,6 +12,12 @@ header:
 
 # 2022
 
+* **The 2023 Asia-Pacific Regional IAU Meeting (Koriyama, Fukushima, Japan)**
+  <br>
+  <br>
+  <a style="color: #007DD9;"><b>Oral Presentation</b></a>: Electromagnetic follow-up observations of binary neutron star mergers with early warnings from decihertz gravitational-wave observatories
+  <br><font color="#CF4C73"><b>(Aug. 2023)</b></font>
+
 * **The 8th ACAMAR Workshop (Online)**
   <br>
   <br>
