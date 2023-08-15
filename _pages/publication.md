@@ -32,12 +32,40 @@ I also list my publications below for consistency.
   Y. Gao,
   L. Shao,
   B. Zhang,
-  H. Sun.
+  H. Sun,
+  B.-B. Zhang.
   <br>
   <br>
   *In preparation*
+   
+2. **Strangeon star oscillations and quasi-periodic oscillations (OPOs) during magnetar giant flares** 
+  <br>
+  <br>
+   H.-B. Li
+  <a style="color: #007DD9;"><b>Y. Kang</b></a>,
+   Z. Hu,
+   L. Shao,
+   C. Xia,
+   R. Xu.
+  <br>
+  <br>
+  *In preparation*
+   
+3. **Continuous gravitational waves from trapped magnetar ejecta and the connection to glitches and antiglitches** 
+  <br>
+  <br>
+  G. Yim,
+  Y. Gao,
+  <a style="color: #007DD9;"><b>Y. Kang</b></a>, 
+  L. Shao,
+  R. Xu.
+  <br>
+  <br>
+  *Submitted to Mon. Not. R. Astron. Soc.*
+  <a href="https://arxiv.org/abs/2308.01588" style="color: #CF4C73;">[arXiv]</a>
+  
 
-2. **Multimessenger detections of binary neutron star mergers powered by decihertz gravitational-wave observations (in Chinese)** 
+4. **Multimessenger detections of binary neutron star mergers powered by decihertz gravitational-wave observations (in Chinese)** 
   <br>
   <br>
   <a style="color: #007DD9;"><b>Y. Kang</b></a>,
@@ -48,8 +76,24 @@ I also list my publications below for consistency.
   <br>
   *Accepted by Sci. China-Phys. Mech. Astron.*
   <a href="http://engine.scichina.com/doi/10.1360/SSPMA-2022-0428" style="color: #CF4C73;">[arXiv]</a>
+
+5. **GRB 211211A-like Events and How Gravitational Waves May Tell Their Origin** 
+  <br>
+  <br>
+  Y. Yin,
+  B.-B. Zhang,
+  H. Sun,
+  J. Yang,
+  <a style="color: #007DD9;"><b>Y. Kang</b></a>,
+  L. Shao,
+  Y. Yang,
+  B. Zhang.
+  <br>
+  <br>
+  *Accepted by Astrophys. J. Lett.*
+  <a href="https://arxiv.org/abs/2304.06581" style="color: #CF4C73;">[arXiv]</a>
   
-3. **Kilonova and optical afterglow from binary neutron star mergers. II. Optimal search strategy for serendipitous observations and target-of-opportunity observations of gravitational-wave triggers** 
+6. **Kilonova and optical afterglow from binary neutron star mergers. II. Optimal search strategy for serendipitous observations and target-of-opportunity observations of gravitational-wave triggers** 
   <br>
   <br>
   J.-P. Zhu, 
