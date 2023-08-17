@@ -41,7 +41,7 @@ I also list my publications below for consistency.
 2. **Strangeon star oscillations and quasi-periodic oscillations (OPOs) during magnetar giant flares** 
   <br>
   <br>
-   H.-B. Li,
+   H.-B. Li, 
   <a style="color: #007DD9;"><b>Y. Kang</b></a>,
    Z. Hu,
    L. Shao,
