@@ -41,7 +41,7 @@ I also list my publications below for consistency.
 2. **Strangeon star oscillations and quasi-periodic oscillations (OPOs) during magnetar giant flares** 
   <br>
   <br>
-   H.-B. Li
+   H.-B. Li,
   <a style="color: #007DD9;"><b>Y. Kang</b></a>,
    Z. Hu,
    L. Shao,
@@ -51,7 +51,7 @@ I also list my publications below for consistency.
   <br>
   *In preparation*
    
-3. **Continuous gravitational waves from trapped magnetar ejecta and the connection to glitches and antiglitches** 
+4. **Continuous gravitational waves from trapped magnetar ejecta and the connection to glitches and antiglitches** 
   <br>
   <br>
   G. Yim,
@@ -65,7 +65,7 @@ I also list my publications below for consistency.
   <a href="https://arxiv.org/abs/2308.01588" style="color: #CF4C73;">[arXiv]</a>
   
 
-4. **Multimessenger detections of binary neutron star mergers powered by decihertz gravitational-wave observations (in Chinese)** 
+5. **Multimessenger detections of binary neutron star mergers powered by decihertz gravitational-wave observations (in Chinese)** 
   <br>
   <br>
   <a style="color: #007DD9;"><b>Y. Kang</b></a>,
@@ -77,7 +77,7 @@ I also list my publications below for consistency.
   *Accepted by Sci. China-Phys. Mech. Astron.*
   <a href="http://engine.scichina.com/doi/10.1360/SSPMA-2022-0428" style="color: #CF4C73;">[arXiv]</a>
 
-5. **GRB 211211A-like Events and How Gravitational Waves May Tell Their Origin** 
+6. **GRB 211211A-like Events and How Gravitational Waves May Tell Their Origin** 
   <br>
   <br>
   Y. Yin,
@@ -93,7 +93,7 @@ I also list my publications below for consistency.
   *Accepted by Astrophys. J. Lett.*
   <a href="https://arxiv.org/abs/2304.06581" style="color: #CF4C73;">[arXiv]</a>
   
-6. **Kilonova and optical afterglow from binary neutron star mergers. II. Optimal search strategy for serendipitous observations and target-of-opportunity observations of gravitational-wave triggers** 
+7. **Kilonova and optical afterglow from binary neutron star mergers. II. Optimal search strategy for serendipitous observations and target-of-opportunity observations of gravitational-wave triggers** 
   <br>
   <br>
   J.-P. Zhu, 
