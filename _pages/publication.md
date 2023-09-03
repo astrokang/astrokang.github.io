@@ -13,7 +13,7 @@ header:
 <p>
 In the online database:
 <span class="archive__item-title">
-<a href="https://orcid.org/0000-0001-7402-4927" style="color: #ADCC54;"> ORCiD</a>.
+<a href="https://orcid.org/0000-0001-7402-4927" style="color: #ADCC54;"> <b>ORCiD<b></a>.
 </span>
 <br>
 <br>
@@ -90,8 +90,7 @@ I also list my publications below for consistency.
   B. Zhang.
   <br>
   <br>
-  *Accepted by Astrophys. J. Lett.*
-  <a href="https://arxiv.org/abs/2304.06581" style="color: #CF4C73;">[arXiv]</a>
+  [Astrophys. J. Lett. 954 (2023) L17](https://iopscience.iop.org/article/10.3847/2041-8213/acf04a)
   
 7. **Kilonova and optical afterglow from binary neutron star mergers. II. Optimal search strategy for serendipitous observations and target-of-opportunity observations of gravitational-wave triggers** 
   <br>
