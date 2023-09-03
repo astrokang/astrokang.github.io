@@ -51,7 +51,7 @@ I also list my publications below for consistency.
   <br>
   *In preparation*
    
-4. **Continuous gravitational waves from trapped magnetar ejecta and the connection to glitches and antiglitches** 
+3. **Continuous gravitational waves from trapped magnetar ejecta and the connection to glitches and antiglitches** 
   <br>
   <br>
   G. Yim,
@@ -65,7 +65,7 @@ I also list my publications below for consistency.
   <a href="https://arxiv.org/abs/2308.01588" style="color: #CF4C73;">[arXiv]</a>
   
 
-5. **Multimessenger detections of binary neutron star mergers powered by decihertz gravitational-wave observations (in Chinese)** 
+4. **Multimessenger detections of binary neutron star mergers powered by decihertz gravitational-wave observations (in Chinese)** 
   <br>
   <br>
   <a style="color: #007DD9;"><b>Y. Kang</b></a>,
@@ -77,7 +77,7 @@ I also list my publications below for consistency.
   *Accepted by Sci. China-Phys. Mech. Astron.*
   <a href="http://engine.scichina.com/doi/10.1360/SSPMA-2022-0428" style="color: #CF4C73;">[arXiv]</a>
 
-6. **GRB 211211A-like Events and How Gravitational Waves May Tell Their Origin** 
+5. **GRB 211211A-like Events and How Gravitational Waves May Tell Their Origin** 
   <br>
   <br>
   Y. Yin,
@@ -92,7 +92,7 @@ I also list my publications below for consistency.
   <br>
   [Astrophys. J. Lett. 954 (2023) L17](https://iopscience.iop.org/article/10.3847/2041-8213/acf04a)
   
-7. **Kilonova and optical afterglow from binary neutron star mergers. II. Optimal search strategy for serendipitous observations and target-of-opportunity observations of gravitational-wave triggers** 
+6. **Kilonova and optical afterglow from binary neutron star mergers. II. Optimal search strategy for serendipitous observations and target-of-opportunity observations of gravitational-wave triggers** 
   <br>
   <br>
   J.-P. Zhu, 
