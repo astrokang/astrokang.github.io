@@ -49,7 +49,8 @@ I also list my publications below for consistency.
    R. Xu.
   <br>
   <br>
-  *In preparation*
+  *Submitted to Mon. Not. R. Astron. Soc.*
+  <a href="https://arxiv.org/abs/2309.09847" style="color: #CF4C73;">[arXiv]</a>
    
 3. **Continuous gravitational waves from trapped magnetar ejecta and the connection to glitches and antiglitches** 
   <br>
