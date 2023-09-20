@@ -75,8 +75,7 @@ I also list my publications below for consistency.
   L. Shao.
   <br>
   <br>
-  *Accepted by Sci. China-Phys. Mech. Astron.*
-  <a href="http://engine.scichina.com/doi/10.1360/SSPMA-2022-0428" style="color: #CF4C73;">[arXiv]</a>
+  [Sci. China-Phys. Mech. Astron. 53 (2023) 100014](https://iopscience.iop.org/article/10.3847/2041-8213/acf04a)
 
 5. **GRB 211211A-like Events and How Gravitational Waves May Tell Their Origin** 
   <br>
