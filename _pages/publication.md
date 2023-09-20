@@ -66,7 +66,7 @@ I also list my publications below for consistency.
   <a href="https://arxiv.org/abs/2308.01588" style="color: #CF4C73;">[arXiv]</a>
   
 
-4. **Multimessenger detections of binary neutron star mergers powered by decihertz gravitational-wave observations (in Chinese)** 
+4. **Multi-messenger detections of binary neutron star mergers powered by decihertz gravitational-wave observations (in Chinese)** 
   <br>
   <br>
   <a style="color: #007DD9;"><b>Y. Kang</b></a>,
