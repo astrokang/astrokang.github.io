@@ -23,7 +23,7 @@ I also list my publications below for consistency.
 
 # 2023
 
-1. **Prospects for detecting neutron star-white dwarf mergers: early warnings from decihertz gravitational-wave observatories** 
+1. **Prospects for detecting neutron star–white dwarf mergers with decihertz gravitational-wave observatories** 
   <br>
   <br>
   <a style="color: #007DD9;"><b>Y. Kang</b></a>,
@@ -33,12 +33,14 @@ I also list my publications below for consistency.
   L. Shao,
   B. Zhang,
   H. Sun,
+  Yi-Han Iris Yin,
   B.-B. Zhang.
   <br>
   <br>
-  *In preparation*
+  *Submitted to Mon. Not. R. Astron. Soc.*
+  <a href="https://arxiv.org/abs/2309.16991" style="color: #CF4C73;">[arXiv]</a>
    
-2. **Quasi-periodic oscillations during magnetar giant flares in the strangeon star model** 
+3. **Quasi-periodic oscillations during magnetar giant flares in the strangeon star model** 
   <br>
   <br>
    H.-B. Li, 
@@ -52,7 +54,7 @@ I also list my publications below for consistency.
   *Submitted to Mon. Not. R. Astron. Soc.*
   <a href="https://arxiv.org/abs/2309.09847" style="color: #CF4C73;">[arXiv]</a>
    
-3. **Continuous gravitational waves from trapped magnetar ejecta and the connection to glitches and antiglitches** 
+4. **Continuous gravitational waves from trapped magnetar ejecta and the connection to glitches and antiglitches** 
   <br>
   <br>
   G. Yim,
@@ -66,7 +68,7 @@ I also list my publications below for consistency.
   <a href="https://arxiv.org/abs/2308.01588" style="color: #CF4C73;">[arXiv]</a>
   
 
-4. **Multi-messenger detections of binary neutron star mergers powered by decihertz gravitational-wave observations (in Chinese)** 
+5. **Multi-messenger detections of binary neutron star mergers powered by decihertz gravitational-wave observations (in Chinese)** 
   <br>
   <br>
   <a style="color: #007DD9;"><b>Y. Kang</b></a>,
@@ -77,7 +79,7 @@ I also list my publications below for consistency.
   <br>
   [Sci. China-Phys. Mech. Astron. 53 (2023) 100014](https://www.sciengine.com/SSPMA/doi/10.1360/SSPMA-2022-0428;JSESSIONID=848edc33-f613-47f1-a9ec-cc9d59efda9a)
 
-5. **GRB 211211A-like Events and How Gravitational Waves May Tell Their Origin** 
+6. **GRB 211211A-like Events and How Gravitational Waves May Tell Their Origin** 
   <br>
   <br>
   Y. Yin,
@@ -92,7 +94,7 @@ I also list my publications below for consistency.
   <br>
   [Astrophys. J. Lett. 954 (2023) L17](https://iopscience.iop.org/article/10.3847/2041-8213/acf04a)
   
-6. **Kilonova and optical afterglow from binary neutron star mergers. II. Optimal search strategy for serendipitous observations and target-of-opportunity observations of gravitational-wave triggers** 
+7. **Kilonova and optical afterglow from binary neutron star mergers. II. Optimal search strategy for serendipitous observations and target-of-opportunity observations of gravitational-wave triggers** 
   <br>
   <br>
   J.-P. Zhu, 
