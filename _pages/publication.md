@@ -50,8 +50,7 @@ I also list my publications below for consistency.
   B.-B. Zhang.
   <br>
   <br>
-  *Accepted by Mon. Not. R. Astron. Soc.*
-  <a href="https://arxiv.org/abs/2309.16991" style="color: #CF4C73;">[arXiv]</a>
+  [Mon. Not. R. Astron. Soc. 528 (2024) 5309](https://academic.oup.com/mnras/article/528/3/5309/7598221?login=false)
 
 ---
 
