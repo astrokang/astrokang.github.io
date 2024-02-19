@@ -29,6 +29,12 @@ header:
 
 # 2023
 
+* The <a style="color: #007DD9;"><b>2022-2023 Merit Student</b></a> in Peking University
+  <br><font color="#CF4C73"><b>(Dec. 2023)</b></font>
+
+* The <a style="color: #007DD9;"><b>Graduate Academic Exchange Foundation</b></a> in Peking University
+  <br><font color="#CF4C73"><b>(Aug. 2023)</b></font>
+  
 * The <a style="color: #007DD9;"><b>President Scholarship</b></a> for PhD Students in Peking University
   <br><font color="#CF4C73"><b>(June 2023)</b></font>
 
@@ -64,16 +70,6 @@ header:
 * <a style="color: #007DD9;"><b>Hui-Chun Chin and Tsung-Dao Lee Chinese Undergraduate Research Endowment (CURE)</b></a>
   <br><font color="#CF4C73"><b>(Apr. 2022)</b></font>
 
-
-# Visiting Experience
-
-<hr style="border:1px solid gray">
-
-* <a href="http://cgc.yzu.edu.cn/info/1014/1582.htm" style="color: #007DD9;"><b>Dr. Cheng-Jun Xia (Lecturer)</b></a> in Yangzhou University, CN
-  <br><font color="#CF4C73"><b>(Apr. 2023)</b></font>
-
-* <a href="https://sharonxuesongwang.wordpress.com" style="color: #007DD9;"><b>Prof. Xuesong Wang</b></a> in Tsinghua University, CN
-  <br><font color="#CF4C73"><b>(Feb. 2021 − Jan. 2022)</b></font>
 
 
 
