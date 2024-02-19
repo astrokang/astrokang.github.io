@@ -25,5 +25,5 @@ header:
 # Membership
 <hr style="border:1px solid gray"> 
 
-* The <a style="color: #007DD9;"><b>KAGRA Scientific Collaboration</b></a>
+* The KAGRA Scientific Collaboration
   <br><font color="#CF4C73"><b>(2023 - Present)</b></font>
