@@ -10,6 +10,16 @@ header:
     overlay_filter: 0.1 
 ---
 
+# 2024
+ 
+* **The 2023 The 3rd Nanjing GRB Conference (Suzhou, Jiangsu, China)**
+  <br>
+  <br>
+  <a style="color: #00DCB1;"><b>Poster Presentation</b></a>: Prospects for detecting neutron star–white dwarf mergers with decihertz gravitational-wave observatories
+  <br><font color="#CF4C73"><b>(May 2024)</b></font> 
+
+<hr style="border:1px solid gray">
+
 # 2023
  
 * **The 2023 Asia-Pacific Regional IAU Meeting (Koriyama, Fukushima, Japan)**
