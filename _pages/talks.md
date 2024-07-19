@@ -11,8 +11,11 @@ header:
 ---
 
 # 2024
+
+* **The 73rd Lindau Nobel Laureate Meeting (Lindau, Bavaria, Germany)**
+  <br><font color="#CF4C73"><b>(June 2024)</b></font> 
  
-* **The 2023 The 3rd Nanjing GRB Conference (Suzhou, Jiangsu, China)**
+* **The 3rd Nanjing GRB Conference (Suzhou, Jiangsu, China)**
   <br>
   <br>
   <a style="color: #00DCB1;"><b>Poster Presentation</b></a>: Prospects for detecting neutron star–white dwarf mergers with decihertz gravitational-wave observatories
