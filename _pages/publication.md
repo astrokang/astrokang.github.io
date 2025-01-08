@@ -21,9 +21,21 @@ I also list my publications below for consistency.
 </p>
 <hr style="border:1px solid gray">
 
-# 2024
+# 2025
 
-1. **New Empirical Relations for Merger-driven Long-duration Gamma-Ray Bursts** 
+1. **Macronova Emission from Neutron Star–White Dwarf Mergers** 
+  <br>
+  <br>
+  <a style="color: #007DD9;"><b>Y. Kang</b></a>,
+  J.-P. Zhu, 
+  Y. Gao,
+  B. Zhang,
+  L. Shao.
+  <br>
+  <br>
+  *In prep.*
+
+2. **New Empirical Relations for Merger-driven Long-duration Gamma-Ray Bursts** 
   <br>
   <br>
   <a style="color: #007DD9;"><b>Y. Kang</b></a>,
@@ -37,19 +49,9 @@ I also list my publications below for consistency.
   <br>
   *Submitted.*
 
-2. **Macronova Emission from Neutron Star–White Dwarf Mergers** 
-  <br>
-  <br>
-  <a style="color: #007DD9;"><b>Y. Kang</b></a>,
-  J.-P. Zhu, 
-  Y. Gao,
-  B. Zhang,
-  L. Shao.
-  <br>
-  <br>
-  *In prep.*
-  
-3. **Formation of GW230529 from Isolated Binary Evolution** 
+# 2024
+
+1. **Formation of GW230529 from Isolated Binary Evolution** 
   <br>
   <br>
   J.-P. Zhu,
@@ -63,7 +65,7 @@ I also list my publications below for consistency.
   <br>
   [Astrophys. J. 974 (2024) 211](https://iopscience.iop.org/article/10.3847/1538-4357/ad72f0)
 
-4. **Prospects for detecting neutron star–white dwarf mergers with decihertz gravitational-wave observatories** 
+2. **Prospects for detecting neutron star–white dwarf mergers with decihertz gravitational-wave observatories** 
   <br>
   <br>
   <a style="color: #007DD9;"><b>Y. Kang</b></a>,
