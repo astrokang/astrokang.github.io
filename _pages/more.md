@@ -14,9 +14,9 @@ header:
 
 <hr style="border:1px solid gray">
 
-* **Compact Stars**
+* **Compact Star**
 
-* **Gravitational Waves**
+* **Gravitational Wave**
 
 * **High-energy Astrophysics**
 
