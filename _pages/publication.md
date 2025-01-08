@@ -37,7 +37,7 @@ I also list my publications below for consistency.
   <br>
   *Submitted.*
 
-2. **Mergernova Emission from Neutron Star–White Dwarf Mergers** 
+2. **Macronova Emission from Neutron Star–White Dwarf Mergers** 
   <br>
   <br>
   <a style="color: #007DD9;"><b>Y. Kang</b></a>,
