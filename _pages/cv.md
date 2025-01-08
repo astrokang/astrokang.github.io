@@ -32,6 +32,9 @@ header:
 
 <hr style="border:1px solid gray">
 
+* <a href="https://eleonoratroja.wordpress.com" style="color: #007DD9;"><b>Prof. Eleonora Troja</b></a> in the University of Rome - Tor Vergata, IT
+  <br><font color="#CF4C73"><b>(Sep. 2024 − Sep. 2025)</b></font>
+  
 * <a href="http://cgc.yzu.edu.cn/info/1014/1582.htm" style="color: #007DD9;"><b>Prof. Cheng-Jun Xia</b></a> in Yangzhou University, CN
   <br><font color="#CF4C73"><b>(Apr. 2023)</b></font>
 
