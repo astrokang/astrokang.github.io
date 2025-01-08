@@ -23,20 +23,47 @@ I also list my publications below for consistency.
 
 # 2024
 
-1. **Mergernova Emission from Neutron Star–White Dwarf Mergers** 
+1. **New Empirical Relations for Merger-driven Long-duration Gamma-Ray Bursts** 
+  <br>
+  <br>
+  <a style="color: #007DD9;"><b>Y. Kang</b></a>,
+  J.-P. Zhu, 
+  Y.-H. Yang,
+  E. Troja,
+  B. Zhang,
+  L. Shao,
+  Z. Li.
+  <br>
+  <br>
+  *Submitted.*
+
+2. **Mergernova Emission from Neutron Star–White Dwarf Mergers** 
   <br>
   <br>
   <a style="color: #007DD9;"><b>Y. Kang</b></a>,
   J.-P. Zhu, 
   Y. Gao,
-  D. Liang
   B. Zhang,
   L. Shao.
   <br>
   <br>
   *In prep.*
   
-2. **Prospects for detecting neutron star–white dwarf mergers with decihertz gravitational-wave observatories** 
+3. **Prospects for detecting neutron star–white dwarf mergers with decihertz gravitational-wave observatories** 
+  <br>
+  <br>
+  J.-P. Zhu,
+  R.-C. Hu,
+  <a style="color: #007DD9;"><b>Y. Kang</b></a>,
+  B. Zhang,
+  H. Tong,
+  L. Shao,
+  Y. Qin.
+  <br>
+  <br>
+  [Astrophys. J. 974 (2024) 211](https://iopscience.iop.org/article/10.3847/1538-4357/ad72f0)
+
+4. **Prospects for detecting neutron star–white dwarf mergers with decihertz gravitational-wave observatories** 
   <br>
   <br>
   <a style="color: #007DD9;"><b>Y. Kang</b></a>,
