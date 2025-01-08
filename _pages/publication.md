@@ -152,7 +152,6 @@ I also list my publications below for consistency.
   <br>
   <br>
   [Astrophys. J. 942 (2023) 88](https://iopscience.iop.org/article/10.3847/1538-4357/aca527)
-{: reversed="reversed"}
 
 ---
 
@@ -189,7 +188,6 @@ I also list my publications below for consistency.
   <br>
   <br>
   [Mon. Not. R. Astron. Soc. 515 (2022) 739](https://academic.oup.com/mnras/article-abstract/515/1/739/6615475?redirectedFrom=fulltext&login=false)
-{: reversed="reversed"}
 
 ---
 
