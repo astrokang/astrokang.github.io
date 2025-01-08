@@ -49,7 +49,7 @@ I also list my publications below for consistency.
   <br>
   *In prep.*
   
-3. **Prospects for detecting neutron star–white dwarf mergers with decihertz gravitational-wave observatories** 
+3. **Formation of GW230529 from Isolated Binary Evolution** 
   <br>
   <br>
   J.-P. Zhu,
