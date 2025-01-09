@@ -35,7 +35,7 @@ header:
 * The <a style="color: #007DD9;"><b>Huatai Securities Scholarship</b></a> in Peking University
   <br><font color="#CF4C73"><b>(Nov. 2024)</b></font>
   
-* The <a style="color: #007DD9;"><b>The Chinese Government Scholarship</b></a> under the State Scholarship Fund
+* The <a style="color: #007DD9;"><b>Chinese Government Scholarship</b></a> under the State Scholarship Fund
   <br><font color="#CF4C73"><b>(July 2024)</b></font>
 
 <hr style="border:1px solid gray">
