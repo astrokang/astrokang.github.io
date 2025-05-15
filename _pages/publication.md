@@ -29,18 +29,33 @@ I also list my publications below for consistency.
   <a style="color: #007DD9;"><b>Y. Kang</b></a>,
   J.-P. Zhu, 
   Y. Gao,
+  J. Zhong,
+  J. Zhang,
   B. Zhang,
   L. Shao.
   <br>
   <br>
   *In prep.*
 
-2. **New Empirical Relations for Merger-driven Long-duration Gamma-Ray Bursts** 
+2. **Gamma-ray leakage effects on magnetar-powered superluminous supernovae with gravitational wave emission** 
+  <br>
+  <br>
+  J. Zhang,
+  J. Zhong,
+  <a style="color: #007DD9;"><b>Y. Kang</b></a>,
+  H.-B. Li,  
+  L. Shao,
+  <br>
+  <br>
+  *In prep.*
+
+3. **Shared properties of merger-driven long-duration gamma-ray bursts** 
   <br>
   <br>
   <a style="color: #007DD9;"><b>Y. Kang</b></a>,
   J.-P. Zhu, 
   Y.-H. Yang,
+  Z. Wang,
   E. Troja,
   B. Zhang,
   L. Shao,
@@ -49,9 +64,40 @@ I also list my publications below for consistency.
   <br>
   *Submitted.*
 
+4. **Radio observations point to a moderately relativistic outflow in the fast X-ray transient EP241021a** 
+  <br>
+  <br>
+  M. Yadav,
+  E. Troja,
+  R. Ricci,
+  Y.-H. Yang,
+  P. Veres,
+  M. H. Wieringa,
+  B. O'Connor, 
+  <a style="color: #007DD9;"><b>Y. Kang</b></a>,
+  R. L. Becerra,
+  G. Ryan,
+  M. Busmann
+  <br>
+  <br>
+  [ArXiv: 2505.08781](https://arxiv.org/abs/2505.08781)
+
+5. **Probing intermediate-mass black hole binaries with the Lunar Gravitational-wave Antenna** 
+  <br>
+  <br>
+  H. Song,
+  H. Yan,
+  <a style="color: #007DD9;"><b>Y. Kang</b></a>,
+  X. Chen 
+  J. Zhao,
+  L. Shao,
+  <br>
+  <br>
+  [ArXiv: 2502.02995](https://arxiv.org/abs/2502.02995)
+
 # 2024
 
-1. **Formation of GW230529 from Isolated Binary Evolution** 
+1. **Formation of GW230529 from isolated binary evolution** 
   <br>
   <br>
   J.-P. Zhu,
@@ -75,7 +121,7 @@ I also list my publications below for consistency.
   L. Shao,
   B. Zhang,
   H. Sun,
-  Yi-Han Iris Yin,
+  Y.-H. I. Yin,
   B.-B. Zhang.
   <br>
   <br>
@@ -122,7 +168,7 @@ I also list my publications below for consistency.
   <br>
   [Sci. China-Phys. Mech. Astron. 53 (2023) 100014](https://www.sciengine.com/SSPMA/doi/10.1360/SSPMA-2022-0428;JSESSIONID=848edc33-f613-47f1-a9ec-cc9d59efda9a)
 
-4. **GRB 211211A-like Events and How Gravitational Waves May Tell Their Origin** 
+4. **GRB 211211A-like events and how gravitational waves may tell their origin** 
   <br>
   <br>
   Y. Yin,
