@@ -43,7 +43,7 @@ I also list my publications below for consistency.
   J. Zhang,
   J. Zhong,
   <a style="color: #007DD9;"><b>Y. Kang</b></a>,
-  H.-B. Li,  
+  H.-B. Li,
   L. Shao,
   <br>
   <br>
