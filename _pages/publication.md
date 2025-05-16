@@ -13,7 +13,7 @@ header:
 <p>
 In the online database:
 <span class="archive__item-title">
-<a href="https://orcid.org/0000-0001-7402-4927" style="color: #ADCC54;"><b>ORCiD</b></a> or <a href="https://ui.adsabs.harvard.edu/user/libraries/N78rK6DJTtWlkbq7paOPLA" style="color: #467BD6;"><b>ADS</b></a>.
+<a href="https://orcid.org/0000-0001-7402-4927" style="color: #ADCC54;"><b>ORCiD</b></a> or <a href="https://ui.adsabs.harvard.edu/user/libraries/N78rK6DJTtWlkbq7paOPLA" style="color: #3F61C3;"><b>ADS</b></a>.
 </span>
 <br>
 <br>
