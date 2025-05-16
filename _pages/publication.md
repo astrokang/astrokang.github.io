@@ -62,7 +62,7 @@ I also list my publications below for consistency.
   Z. Li.
   <br>
   <br>
-  *[ArXiv: 2505.10165](https://arxiv.org/abs/2505.10165)*
+  [ArXiv: 2505.10165](https://arxiv.org/abs/2505.10165)
 
 4. **Radio observations point to a moderately relativistic outflow in the fast X-ray transient EP241021a** 
   <br>
