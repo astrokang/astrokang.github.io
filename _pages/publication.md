@@ -27,12 +27,12 @@ I also list my publications below for consistency (* marks the corresponding aut
   <br>
   <br>
   <a style="color: #007DD9;"><b>Y. Kang</b></a>,
-  J.-P. Zhu<sup>*</sup>, 
+  J.-P. Zhu<sup> * </sup>, 
   Y. Gao,
   J. Zhong,
   J. Zhang,
-  B. Zhang<sup>*</sup>,
-  L. Shao<sup>*</sup>.
+  B. Zhang<sup> * </sup>,
+  L. Shao<sup> * </sup>.
   <br>
   <br>
   *In prep.*
@@ -42,9 +42,9 @@ I also list my publications below for consistency (* marks the corresponding aut
   <br>
   J. Zhang,
   J. Zhong,
-  <a style="color: #007DD9;"><b>Y. Kang<sup>*</sup></b></a>,
-  H.-B. Li<sup>*</sup>,
-  L. Shao<sup>*</sup>,
+  <a style="color: #007DD9;"><b>Y. Kang<sup> * </sup></b></a>,
+  H.-B. Li<sup> * </sup>,
+  L. Shao<sup> * </sup>,
   <br>
   <br>
   *In prep.*
@@ -52,13 +52,13 @@ I also list my publications below for consistency (* marks the corresponding aut
 3. **Shared properties of merger-driven long-duration gamma-ray bursts** 
   <br>
   <br>
-  <a style="color: #007DD9;"><b>Y. Kang<sup>*</sup></b></a>,
+  <a style="color: #007DD9;"><b>Y. Kang<sup> * </sup></b></a>,
   J.-P. Zhu, 
   Y.-H. Yang,
   Z. Wang,
   E. Troja,
   B. Zhang,
-  L. Shao<sup>*</sup>,
+  L. Shao<sup> * </sup>,
   Z. Li.
   <br>
   <br>
@@ -67,7 +67,7 @@ I also list my publications below for consistency (* marks the corresponding aut
 4. **Radio observations point to a moderately relativistic outflow in the fast X-ray transient EP241021a** 
   <br>
   <br>
-  M. Yadav<sup>*</sup>,
+  M. Yadav<sup> * </sup>,
   E. Troja,
   R. Ricci,
   Y.-H. Yang,
@@ -90,7 +90,7 @@ I also list my publications below for consistency (* marks the corresponding aut
   <a style="color: #007DD9;"><b>Y. Kang</b></a>,
   X. Chen 
   J. Zhao,
-  L. Shao<sup>*</sup>,
+  L. Shao<sup> * </sup>,
   <br>
   <br>
   [ArXiv: 2502.02995](https://arxiv.org/abs/2502.02995)
@@ -100,8 +100,8 @@ I also list my publications below for consistency (* marks the corresponding aut
 1. **Formation of GW230529 from isolated binary evolution** 
   <br>
   <br>
-  J.-P. Zhu<sup>*</sup>,
-  R.-C. Hu<sup>*</sup>,
+  J.-P. Zhu<sup> * </sup>,
+  R.-C. Hu<sup> * </sup>,
   <a style="color: #007DD9;"><b>Y. Kang</b></a>,
   B. Zhang,
   H. Tong,
@@ -118,8 +118,8 @@ I also list my publications below for consistency (* marks the corresponding aut
   C. Liu, 
   J.-P. Zhu, 
   Y. Gao,
-  L. Shao<sup>*</sup>,
-  B. Zhang<sup>*</sup>,
+  L. Shao<sup> * </sup>,
+  B. Zhang<sup> * </sup>,
   H. Sun,
   Y.-H. I. Yin,
   B.-B. Zhang.
@@ -137,9 +137,9 @@ I also list my publications below for consistency (* marks the corresponding aut
    H.-B. Li, 
   <a style="color: #007DD9;"><b>Y. Kang</b></a>,
    Z. Hu,
-   L. Shao<sup>*</sup>,
+   L. Shao<sup> * </sup>,
    C. Xia,
-   R. Xu<sup>*</sup>.
+   R. Xu<sup> * </sup>.
   <br>
   <br>
   [Mon. Not. R. Astron. Soc. 527 (2024) 855](https://academic.oup.com/mnras/article/527/1/855/7326784?login=false)
@@ -147,11 +147,11 @@ I also list my publications below for consistency (* marks the corresponding aut
 2. **Continuous gravitational waves from trapped magnetar ejecta and the connection to glitches and antiglitches** 
   <br>
   <br>
-  G. Yim<sup>*</sup>,
+  G. Yim<sup> * </sup>,
   Y. Gao,
   <a style="color: #007DD9;"><b>Y. Kang</b></a>, 
-  L. Shao<sup>*</sup>,
-  R. Xu<sup>*</sup>.
+  L. Shao<sup> * </sup>,
+  R. Xu<sup> * </sup>.
   <br>
   <br>
   [Mon. Not. R. Astron. Soc. 527 (2024) 2379](https://academic.oup.com/mnras/article/527/2/2379/7337348?login=false)
@@ -163,7 +163,7 @@ I also list my publications below for consistency (* marks the corresponding aut
   <a style="color: #007DD9;"><b>Y. Kang</b></a>,
   C. Liu, 
   J.-P. Zhu, 
-  L. Shao<sup>*</sup>.
+  L. Shao<sup> * </sup>.
   <br>
   <br>
   [Sci. China-Phys. Mech. Astron. 53 (2023) 100014](https://www.sciengine.com/SSPMA/doi/10.1360/SSPMA-2022-0428;JSESSIONID=848edc33-f613-47f1-a9ec-cc9d59efda9a)
@@ -172,7 +172,7 @@ I also list my publications below for consistency (* marks the corresponding aut
   <br>
   <br>
   Y.-H. I. Yin,
-  B.-B. Zhang<sup>*</sup>,
+  B.-B. Zhang<sup> * </sup>,
   H. Sun,
   J. Yang,
   <a style="color: #007DD9;"><b>Y. Kang</b></a>,
@@ -186,11 +186,11 @@ I also list my publications below for consistency (* marks the corresponding aut
 5. **Kilonova and optical afterglow from binary neutron star mergers. II. Optimal search strategy for serendipitous observations and target-of-opportunity observations of gravitational-wave triggers** 
   <br>
   <br>
-  J.-P. Zhu<sup>*</sup>, 
-  S. Wu<sup>*</sup>, 
-  Y.-P. Yang<sup>*</sup>, 
+  J.-P. Zhu<sup> * </sup>, 
+  S. Wu<sup> * </sup>, 
+  Y.-P. Yang<sup> * </sup>, 
   C. Liu, 
-  B. Zhang<sup>*</sup>, 
+  B. Zhang<sup> * </sup>, 
   H.-R. Song, 
   H. Gao, 
   Z. Cao, 
@@ -210,8 +210,8 @@ I also list my publications below for consistency (* marks the corresponding aut
   <br>
   M. Liu, 
   C. Liu, 
-  Y.-M. Hu<sup>*</sup>, 
-  L. Shao<sup>*</sup>, 
+  Y.-M. Hu<sup> * </sup>, 
+  L. Shao<sup> * </sup>, 
   <a style="color: #007DD9;"><b>Y. Kang</b></a>.
   <br>
   <br>
@@ -222,7 +222,7 @@ I also list my publications below for consistency (* marks the corresponding aut
   <br>
   C. Liu,
   <a style="color: #007DD9;"><b>Y. Kang</b></a>,
-  L. Shao<sup>*</sup>.
+  L. Shao<sup> * </sup>.
   <br>
   <br>
   [Astrophys. J. 934 (2022) 84](https://iopscience.iop.org/article/10.3847/1538-4357/ac7a39)
@@ -232,7 +232,7 @@ I also list my publications below for consistency (* marks the corresponding aut
   <br>
   <a style="color: #007DD9;"><b>Y. Kang</b></a>,
   C. Liu, 
-  L. Shao<sup>*</sup>.
+  L. Shao<sup> * </sup>.
   <br>
   <br>
   [Mon. Not. R. Astron. Soc. 515 (2022) 739](https://academic.oup.com/mnras/article-abstract/515/1/739/6615475?redirectedFrom=fulltext&login=false)
@@ -246,7 +246,7 @@ I also list my publications below for consistency (* marks the corresponding aut
   <br>
   <a style="color: #007DD9;"><b>Y. Kang</b></a>,
   C. Liu, 
-  L. Shao<sup>*</sup>.
+  L. Shao<sup> * </sup>.
   <br>
   <br>
   [Astron. J. 162 (2021) 247](https://iopscience.iop.org/article/10.3847/1538-3881/ac23d8)
