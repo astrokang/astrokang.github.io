@@ -13,11 +13,11 @@ header:
 <p>
 In the online database:
 <span class="archive__item-title">
-<a href="https://orcid.org/0000-0001-7402-4927" style="color: #ADCC54;"><b>ORCiD</b></a> or <a href="https://ui.adsabs.harvard.edu/user/libraries/N78rK6DJTtWlkbq7paOPLA" style="color: #467BD6;"><b>ADS</b></a>..
+<a href="https://orcid.org/0000-0001-7402-4927" style="color: #ADCC54;"><b>ORCiD</b></a> or <a href="https://ui.adsabs.harvard.edu/user/libraries/N78rK6DJTtWlkbq7paOPLA" style="color: #467BD6;"><b>ADS</b></a>.
 </span>
 <br>
 <br>
-I also list my publications below for consistency ('*': Corresponding author).
+I also list my publications below for consistency (* marks the corresponding author).
 </p>
 <hr style="border:1px solid gray">
 
@@ -26,13 +26,13 @@ I also list my publications below for consistency ('*': Corresponding author).
 1. **Macronova Emission from Neutron Star–White Dwarf Mergers** 
   <br>
   <br>
-  <a style="color: #007DD9;"><b>Y. Kang<sup>*</sup></b></a>,
-  J.-P. Zhu, 
+  <a style="color: #007DD9;"><b>Y. Kang</b></a>,
+  J.-P. Zhu<sup>*</sup>, 
   Y. Gao,
   J. Zhong,
   J. Zhang,
-  B. Zhang,
-  L. Shao.
+  B. Zhang<sup>*</sup>,
+  L. Shao<sup>*</sup>.
   <br>
   <br>
   *In prep.*
@@ -42,9 +42,9 @@ I also list my publications below for consistency ('*': Corresponding author).
   <br>
   J. Zhang,
   J. Zhong,
-  <a style="color: #007DD9;"><b>Y. Kang</b></a>,
-  H.-B. Li,
-  L. Shao,
+  <a style="color: #007DD9;"><b>Y. Kang<sup>*</sup></b></a>,
+  H.-B. Li<sup>*</sup>,
+  L. Shao<sup>*</sup>,
   <br>
   <br>
   *In prep.*
@@ -52,13 +52,13 @@ I also list my publications below for consistency ('*': Corresponding author).
 3. **Shared properties of merger-driven long-duration gamma-ray bursts** 
   <br>
   <br>
-  <a style="color: #007DD9;"><b>Y. Kang</b></a>,
+  <a style="color: #007DD9;"><b>Y. Kang<sup>*</sup></b></a>,
   J.-P. Zhu, 
   Y.-H. Yang,
   Z. Wang,
   E. Troja,
   B. Zhang,
-  L. Shao,
+  L. Shao<sup>*</sup>,
   Z. Li.
   <br>
   <br>
@@ -67,7 +67,7 @@ I also list my publications below for consistency ('*': Corresponding author).
 4. **Radio observations point to a moderately relativistic outflow in the fast X-ray transient EP241021a** 
   <br>
   <br>
-  M. Yadav,
+  M. Yadav<sup>*</sup>,
   E. Troja,
   R. Ricci,
   Y.-H. Yang,
@@ -90,7 +90,7 @@ I also list my publications below for consistency ('*': Corresponding author).
   <a style="color: #007DD9;"><b>Y. Kang</b></a>,
   X. Chen 
   J. Zhao,
-  L. Shao,
+  L. Shao<sup>*</sup>,
   <br>
   <br>
   [ArXiv: 2502.02995](https://arxiv.org/abs/2502.02995)
@@ -100,8 +100,8 @@ I also list my publications below for consistency ('*': Corresponding author).
 1. **Formation of GW230529 from isolated binary evolution** 
   <br>
   <br>
-  J.-P. Zhu,
-  R.-C. Hu,
+  J.-P. Zhu<sup>*</sup>,
+  R.-C. Hu<sup>*</sup>,
   <a style="color: #007DD9;"><b>Y. Kang</b></a>,
   B. Zhang,
   H. Tong,
@@ -118,8 +118,8 @@ I also list my publications below for consistency ('*': Corresponding author).
   C. Liu, 
   J.-P. Zhu, 
   Y. Gao,
-  L. Shao,
-  B. Zhang,
+  L. Shao<sup>*</sup>,
+  B. Zhang<sup>*</sup>,
   H. Sun,
   Y.-H. I. Yin,
   B.-B. Zhang.
@@ -137,9 +137,9 @@ I also list my publications below for consistency ('*': Corresponding author).
    H.-B. Li, 
   <a style="color: #007DD9;"><b>Y. Kang</b></a>,
    Z. Hu,
-   L. Shao,
+   L. Shao<sup>*</sup>,
    C. Xia,
-   R. Xu.
+   R. Xu<sup>*</sup>.
   <br>
   <br>
   [Mon. Not. R. Astron. Soc. 527 (2024) 855](https://academic.oup.com/mnras/article/527/1/855/7326784?login=false)
@@ -147,11 +147,11 @@ I also list my publications below for consistency ('*': Corresponding author).
 2. **Continuous gravitational waves from trapped magnetar ejecta and the connection to glitches and antiglitches** 
   <br>
   <br>
-  G. Yim,
+  G. Yim<sup>*</sup>,
   Y. Gao,
   <a style="color: #007DD9;"><b>Y. Kang</b></a>, 
-  L. Shao,
-  R. Xu.
+  L. Shao<sup>*</sup>,
+  R. Xu<sup>*</sup>.
   <br>
   <br>
   [Mon. Not. R. Astron. Soc. 527 (2024) 2379](https://academic.oup.com/mnras/article/527/2/2379/7337348?login=false)
@@ -163,7 +163,7 @@ I also list my publications below for consistency ('*': Corresponding author).
   <a style="color: #007DD9;"><b>Y. Kang</b></a>,
   C. Liu, 
   J.-P. Zhu, 
-  L. Shao.
+  L. Shao<sup>*</sup>.
   <br>
   <br>
   [Sci. China-Phys. Mech. Astron. 53 (2023) 100014](https://www.sciengine.com/SSPMA/doi/10.1360/SSPMA-2022-0428;JSESSIONID=848edc33-f613-47f1-a9ec-cc9d59efda9a)
@@ -171,8 +171,8 @@ I also list my publications below for consistency ('*': Corresponding author).
 4. **GRB 211211A-like events and how gravitational waves may tell their origin** 
   <br>
   <br>
-  Y. Yin,
-  B.-B. Zhang,
+  Y.-H. I. Yin,
+  B.-B. Zhang<sup>*</sup>,
   H. Sun,
   J. Yang,
   <a style="color: #007DD9;"><b>Y. Kang</b></a>,
@@ -186,11 +186,11 @@ I also list my publications below for consistency ('*': Corresponding author).
 5. **Kilonova and optical afterglow from binary neutron star mergers. II. Optimal search strategy for serendipitous observations and target-of-opportunity observations of gravitational-wave triggers** 
   <br>
   <br>
-  J.-P. Zhu, 
-  S. Wu, 
-  Y.-P. Yang, 
+  J.-P. Zhu<sup>*</sup>, 
+  S. Wu<sup>*</sup>, 
+  Y.-P. Yang<sup>*</sup>, 
   C. Liu, 
-  B. Zhang, 
+  B. Zhang<sup>*</sup>, 
   H.-R. Song, 
   H. Gao, 
   Z. Cao, 
@@ -210,8 +210,8 @@ I also list my publications below for consistency ('*': Corresponding author).
   <br>
   M. Liu, 
   C. Liu, 
-  Y.-M. Hu, 
-  L. Shao, 
+  Y.-M. Hu<sup>*</sup>, 
+  L. Shao<sup>*</sup>, 
   <a style="color: #007DD9;"><b>Y. Kang</b></a>.
   <br>
   <br>
@@ -222,7 +222,7 @@ I also list my publications below for consistency ('*': Corresponding author).
   <br>
   C. Liu,
   <a style="color: #007DD9;"><b>Y. Kang</b></a>,
-  L. Shao.
+  L. Shao<sup>*</sup>.
   <br>
   <br>
   [Astrophys. J. 934 (2022) 84](https://iopscience.iop.org/article/10.3847/1538-4357/ac7a39)
@@ -232,7 +232,7 @@ I also list my publications below for consistency ('*': Corresponding author).
   <br>
   <a style="color: #007DD9;"><b>Y. Kang</b></a>,
   C. Liu, 
-  L. Shao.
+  L. Shao<sup>*</sup>.
   <br>
   <br>
   [Mon. Not. R. Astron. Soc. 515 (2022) 739](https://academic.oup.com/mnras/article-abstract/515/1/739/6615475?redirectedFrom=fulltext&login=false)
@@ -246,7 +246,7 @@ I also list my publications below for consistency ('*': Corresponding author).
   <br>
   <a style="color: #007DD9;"><b>Y. Kang</b></a>,
   C. Liu, 
-  L. Shao.
+  L. Shao<sup>*</sup>.
   <br>
   <br>
   [Astron. J. 162 (2021) 247](https://iopscience.iop.org/article/10.3847/1538-3881/ac23d8)
