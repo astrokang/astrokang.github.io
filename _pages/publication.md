@@ -44,7 +44,7 @@ I also list my publications below for consistency (* marks the corresponding aut
   J. Zhong,
   <a style="color: #007DD9;"><b>Y. Kang<sup> * </sup></b></a>,
   H.-B. Li<sup> * </sup>,
-  L. Shao<sup> * </sup>,
+  L. Shao<sup> * </sup>.
   <br>
   <br>
   *In prep.*
@@ -77,7 +77,7 @@ I also list my publications below for consistency (* marks the corresponding aut
   <a style="color: #007DD9;"><b>Y. Kang</b></a>,
   R. L. Becerra,
   G. Ryan,
-  M. Busmann
+  M. Busmann.
   <br>
   <br>
   [ArXiv: 2505.08781](https://arxiv.org/abs/2505.08781)
@@ -90,7 +90,7 @@ I also list my publications below for consistency (* marks the corresponding aut
   <a style="color: #007DD9;"><b>Y. Kang</b></a>,
   X. Chen 
   J. Zhao,
-  L. Shao<sup> * </sup>,
+  L. Shao<sup> * </sup>.
   <br>
   <br>
   [ArXiv: 2502.02995](https://arxiv.org/abs/2502.02995)
