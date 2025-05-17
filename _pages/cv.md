@@ -25,13 +25,13 @@ header:
 # Membership
 <hr style="border:1px solid gray"> 
 
-* <a href="https://www.the-athena-x-ray-observatory.eu/en" style="color: #007DD9;"><b>NewAthena Science Community</b></a> (Support Member)
+* <a href="https://www.the-athena-x-ray-observatory.eu/en" style="color: #007DD9;"><b>NewAthena Science Community</b></a> [Support Member]
   <br><font color="#CF4C73"><b>(2025 - Present)</b></font>
 
-* <a href="https://www.lisamission.org" style="color: #007DD9;"><b>LISA Consortium</b></a> (Community Member)
+* <a href="https://www.lisamission.org" style="color: #007DD9;"><b>LISA Consortium</b></a> [Community Member]
   <br><font color="#CF4C73"><b>(2025 - Present)</b></font>
 
-* <a href="https://extp.astro-ge.ch" style="color: #007DD9;"><b>enhanced X-ray Timing and Polarimetry mission</b></a> 
+* <a href="https://extp.astro-ge.ch" style="color: #007DD9;"><b>enhanced X-ray Timing and Polarimetry mission (eXTP)</b></a> 
   <br><font color="#CF4C73"><b>(2025 - Present)</b></font>
 
 * <a href="https://www.lindau-nobel.org/lindau-alumni/" style="color: #007DD9;"><b>Lindau Alumni Network</b></a> 
