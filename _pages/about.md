@@ -21,7 +21,7 @@ For now, I mainly focus on the gravitational-wave detections and compact stars.
 My [What's more]({{ site.url }}/more/) page could help you to know me more! ^_^ 
 
 I like to talk to other astrophysicists and get to know their works. You can also see my
-[publication]({{ site.url }}/publication/) page for a list of my relevant papers and work in progress.
+[Publication]({{ site.url }}/publication/) page for a list of my relevant papers and work in progress.
 
 
 
