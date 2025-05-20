@@ -78,7 +78,7 @@ header:
 * <span style="color: #007DD9; font-weight: bold;">Grand Prize</span> for the 30th Challenge Cup in Peking University
   <br><font color="#CF4C73"><b>(May 2022)</b></font>
 
-* <span style="color: #007DD9; font-weight: bold;">First Prize</span> and <span style="color: #007DD9; font-weight: bold;">The Best Presentation Award</span> for the 7th Xing-Cheng Undergraduate
+* <span style="color: #007DD9; font-weight: bold;">First Prize</span> and <span style="color: #007DD9; font-weight: bold;">Best Presentation Award</span> for the 7th Xing-Cheng Undergraduate
   <br><font color="#CF4C73"><b>(May 2022)</b></font>
 
 * <span style="color: #007DD9; font-weight: bold;">Excellent Project Award</span> for Undergraduate Research Study in Peking University
