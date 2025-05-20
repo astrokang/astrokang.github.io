@@ -11,9 +11,6 @@ header:
 ---
 
 # 2024
-
-* **The 73rd Lindau Nobel Laureate Meeting (Lindau, Bavaria, Germany)**
-  <br><font color="#CF4C73"><b>(June 2024)</b></font> 
  
 * **The 3rd Nanjing GRB Conference (Suzhou, Jiangsu, China)**
   <br>
