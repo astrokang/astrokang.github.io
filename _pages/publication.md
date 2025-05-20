@@ -42,7 +42,7 @@ I also list my publications below for consistency (* marks the corresponding aut
 3. **Shared properties of merger-driven long-duration gamma-ray bursts** 
   <br>
   <br>
-  <font color="#007DD9"><b>Y. Kang<sup> * </sup></b></font>, J.-P. Zhu, Y.-H. Yang, Z. Wang, E. Troja, B. Zhang, L. Shao<sup> * </sup>, Z. Li.
+  <span style="color: #007DD9; font-weight: bold;">Y. Kang</span><sup> * </sup>, J.-P. Zhu, Y.-H. Yang, Z. Wang, E. Troja, B. Zhang, L. Shao<sup> * </sup>, Z. Li.
   <br>
   <br>
   [ArXiv: 2505.10165](https://arxiv.org/abs/2505.10165)
@@ -76,7 +76,7 @@ I also list my publications below for consistency (* marks the corresponding aut
 2. **Prospects for detecting neutron star–white dwarf mergers with decihertz gravitational-wave observatories** 
   <br>
   <br>
-  <font color="#007DD9"><b>Y. Kang</b></font>,
+  <span style="color: #007DD9; font-weight: bold;">Y. Kang</span>,
   C. Liu, J.-P. Zhu, Y. Gao, L. Shao<sup> * </sup>, B. Zhang<sup> * </sup>, H. Sun, Y.-H. I. Yin, B.-B. Zhang.
   <br>
   <br>
@@ -106,7 +106,7 @@ I also list my publications below for consistency (* marks the corresponding aut
 3. **Multi-messenger detections of binary neutron star mergers powered by decihertz gravitational-wave observations (in Chinese)** 
   <br>
   <br>
-  <font color="#007DD9"><b>Y. Kang</b></font>, C. Liu, J.-P. Zhu, L. Shao<sup> * </sup>.
+  <span style="color: #007DD9; font-weight: bold;">Y. Kang</span>, C. Liu, J.-P. Zhu, L. Shao<sup> * </sup>.
   <br>
   <br>
   [Sci. China-Phys. Mech. Astron. 53 (2023) 100014](https://www.sciengine.com/SSPMA/doi/10.1360/SSPMA-2022-0428;JSESSIONID=848edc33-f613-47f1-a9ec-cc9d59efda9a)
@@ -150,7 +150,7 @@ I also list my publications below for consistency (* marks the corresponding aut
 3. **Electromagnetic follow-up observations of binary neutron star mergers with early warnings from decihertz gravitational-wave observatories** 
   <br>
   <br>
-  <font color="#007DD9"><b>Y. Kang</b></font>, C. Liu,  L. Shao<sup> * </sup>.
+  <span style="color: #007DD9; font-weight: bold;">Y. Kang</span>, C. Liu,  L. Shao<sup> * </sup>.
   <br>
   <br>
   [Mon. Not. R. Astron. Soc. 515 (2022) 739](https://academic.oup.com/mnras/article-abstract/515/1/739/6615475?redirectedFrom=fulltext&login=false)
@@ -162,7 +162,7 @@ I also list my publications below for consistency (* marks the corresponding aut
 1. **Prospects for detecting exoplanets around double white dwarfs with LISA and Taiji** 
   <br>
   <br>
-  <font color="#007DD9"><b>Y. Kang</b></font>, C. Liu, L. Shao<sup> * </sup>.
+  <span style="color: #007DD9; font-weight: bold;">Y. Kang</span>, C. Liu, L. Shao<sup> * </sup>.
   <br>
   <br>
   [Astron. J. 162 (2021) 247](https://iopscience.iop.org/article/10.3847/1538-3881/ac23d8)
