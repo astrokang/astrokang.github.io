@@ -26,9 +26,9 @@ header:
 
 <hr style="border:1px solid gray">
 
-* <font color="#007DD9"><b>Theoretical Mechanics (A)</b></font> in Peking University, taught by [Prof. Lijing Shao](http://friendshao.github.io/about/)
+* <span style="color: #007DD9; font-weight: bold;">Theoretical Mechanics (A)</span> in Peking University, taught by [Prof. Lijing Shao](http://friendshao.github.io/about/)
   <br><font color="#CF4C73"><b>(In Spring 2024)</b></font>
 
-* <font color="#007DD9"><b>Radiative Processes in Astrophysics</b></font> in Peking University, taught by [Prof. Zhuo Li](https://faculty.pku.edu.cn/lizhuo1/zh_CN/index/7734/list/index.htm)
+* <span style="color: #007DD9; font-weight: bold;">Radiative Processes in Astrophysics</span> in Peking University, taught by [Prof. Zhuo Li](https://faculty.pku.edu.cn/lizhuo1/zh_CN/index/7734/list/index.htm)
   <br><font color="#CF4C73"><b>(In Fall 2023)</b></font>
 
