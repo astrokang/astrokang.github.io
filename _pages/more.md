@@ -33,7 +33,7 @@ header:
 * Attending the 73rd Lindau Nobel Laureate Meeting supported by the <span style="color: #007DD9; font-weight: bold;">Sino-German Center for Research Promotion</span> and the <span style="color: #007DD9; font-weight: bold;">Council for the Lindau Nobel Laureate Meetings</span>
   <br><font color="#CF4C73"><b>(July 2024 - Aug. 2024)</b></font>
 
-* <span style="color: #007DD9; font-weight: bold;">Graduate Academic Exchange Foundation</span> 
+* <span style="color: #007DD9; font-weight: bold;">Graduate Academic Exchange Foundation</span> in Peking University
   <br><font color="#CF4C73"><b>(Aug. 2023)</b></font>
 
 * <span style="color: #007DD9; font-weight: bold;">Hui-Chun Chin and Tsung-Dao Lee Chinese Undergraduate Research Endowment (CURE)</span>
