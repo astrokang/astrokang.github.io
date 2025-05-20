@@ -26,7 +26,7 @@ I also list my publications below for consistency (* marks the corresponding aut
 1. **Macronova Emission from Neutron Star–White Dwarf Mergers** 
   <br>
   <br>
-  <a style="color: #007DD9;"><b>Y. Kang</b></a>,
+  <font color="#007DD9"><b>Y. Kang</b></font>,
   J.-P. Zhu<sup> * </sup>, 
   Y. Gao,
   J. Zhong,
@@ -42,7 +42,7 @@ I also list my publications below for consistency (* marks the corresponding aut
   <br>
   J. Zhang,
   J. Zhong,
-  <a style="color: #007DD9;"><b>Y. Kang<sup> * </sup></b></a>,
+  <font color="#007DD9"><b>Y. Kang<sup> * </sup></b></font>,
   H.-B. Li<sup> * </sup>,
   L. Shao<sup> * </sup>.
   <br>
@@ -52,7 +52,7 @@ I also list my publications below for consistency (* marks the corresponding aut
 3. **Shared properties of merger-driven long-duration gamma-ray bursts** 
   <br>
   <br>
-  <a style="color: #007DD9;"><b>Y. Kang<sup> * </sup></b></a>,
+  <font color="#007DD9"><b>Y. Kang<sup> * </sup></b></font>,
   J.-P. Zhu, 
   Y.-H. Yang,
   Z. Wang,
@@ -74,7 +74,7 @@ I also list my publications below for consistency (* marks the corresponding aut
   P. Veres,
   M. H. Wieringa,
   B. O'Connor, 
-  <a style="color: #007DD9;"><b>Y. Kang</b></a>,
+  <font color="#007DD9"><b>Y. Kang</b></font>,
   R. L. Becerra,
   G. Ryan,
   M. Busmann.
@@ -87,7 +87,7 @@ I also list my publications below for consistency (* marks the corresponding aut
   <br>
   H. Song,
   H. Yan,
-  <a style="color: #007DD9;"><b>Y. Kang</b></a>,
+  <font color="#007DD9"><b>Y. Kang</b></font>,
   X. Chen 
   J. Zhao,
   L. Shao<sup> * </sup>.
@@ -102,7 +102,7 @@ I also list my publications below for consistency (* marks the corresponding aut
   <br>
   J.-P. Zhu<sup> * </sup>,
   R.-C. Hu<sup> * </sup>,
-  <a style="color: #007DD9;"><b>Y. Kang</b></a>,
+  <font color="#007DD9"><b>Y. Kang</b></font>,
   B. Zhang,
   H. Tong,
   L. Shao,
@@ -114,7 +114,7 @@ I also list my publications below for consistency (* marks the corresponding aut
 2. **Prospects for detecting neutron star–white dwarf mergers with decihertz gravitational-wave observatories** 
   <br>
   <br>
-  <a style="color: #007DD9;"><b>Y. Kang</b></a>,
+  <font color="#007DD9"><b>Y. Kang</b></font>,
   C. Liu, 
   J.-P. Zhu, 
   Y. Gao,
@@ -135,7 +135,7 @@ I also list my publications below for consistency (* marks the corresponding aut
   <br>
   <br>
    H.-B. Li, 
-  <a style="color: #007DD9;"><b>Y. Kang</b></a>,
+  <font color="#007DD9"><b>Y. Kang</b></font>,
    Z. Hu,
    L. Shao<sup> * </sup>,
    C. Xia,
@@ -149,7 +149,7 @@ I also list my publications below for consistency (* marks the corresponding aut
   <br>
   G. Yim<sup> * </sup>,
   Y. Gao,
-  <a style="color: #007DD9;"><b>Y. Kang</b></a>, 
+  <font color="#007DD9"><b>Y. Kang</b></font>, 
   L. Shao<sup> * </sup>,
   R. Xu<sup> * </sup>.
   <br>
@@ -160,7 +160,7 @@ I also list my publications below for consistency (* marks the corresponding aut
 3. **Multi-messenger detections of binary neutron star mergers powered by decihertz gravitational-wave observations (in Chinese)** 
   <br>
   <br>
-  <a style="color: #007DD9;"><b>Y. Kang</b></a>,
+  <font color="#007DD9"><b>Y. Kang</b></font>,
   C. Liu, 
   J.-P. Zhu, 
   L. Shao<sup> * </sup>.
@@ -175,7 +175,7 @@ I also list my publications below for consistency (* marks the corresponding aut
   B.-B. Zhang<sup> * </sup>,
   H. Sun,
   J. Yang,
-  <a style="color: #007DD9;"><b>Y. Kang</b></a>,
+  <font color="#007DD9"><b>Y. Kang</b></font>,
   L. Shao,
   Y. Yang,
   B. Zhang.
@@ -195,7 +195,7 @@ I also list my publications below for consistency (* marks the corresponding aut
   H. Gao, 
   Z. Cao, 
   Y.-W. Yu, 
-  <a style="color: #007DD9;"><b>Y. Kang</b></a>, 
+  <font color="#007DD9"><b>Y. Kang</b></font>, 
   L. Shao.
   <br>
   <br>
@@ -212,7 +212,7 @@ I also list my publications below for consistency (* marks the corresponding aut
   C. Liu, 
   Y.-M. Hu<sup> * </sup>, 
   L. Shao<sup> * </sup>, 
-  <a style="color: #007DD9;"><b>Y. Kang</b></a>.
+  <font color="#007DD9"><b>Y. Kang</b></font>.
   <br>
   <br>
   [Phys. Dark Univ. 38 (2022) 101136](https://www.sciencedirect.com/science/article/pii/S2212686422001091?via%3Dihub)
@@ -221,7 +221,7 @@ I also list my publications below for consistency (* marks the corresponding aut
   <br>
   <br>
   C. Liu,
-  <a style="color: #007DD9;"><b>Y. Kang</b></a>,
+  <font color="#007DD9"><b>Y. Kang</b></font>,
   L. Shao<sup> * </sup>.
   <br>
   <br>
@@ -230,7 +230,7 @@ I also list my publications below for consistency (* marks the corresponding aut
 3. **Electromagnetic follow-up observations of binary neutron star mergers with early warnings from decihertz gravitational-wave observatories** 
   <br>
   <br>
-  <a style="color: #007DD9;"><b>Y. Kang</b></a>,
+  <font color="#007DD9"><b>Y. Kang</b></font>,
   C. Liu, 
   L. Shao<sup> * </sup>.
   <br>
@@ -244,7 +244,7 @@ I also list my publications below for consistency (* marks the corresponding aut
 1. **Prospects for detecting exoplanets around double white dwarfs with LISA and Taiji** 
   <br>
   <br>
-  <a style="color: #007DD9;"><b>Y. Kang</b></a>,
+  <font color="#007DD9"><b>Y. Kang</b></font>,
   C. Liu, 
   L. Shao<sup> * </sup>.
   <br>
