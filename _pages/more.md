@@ -28,7 +28,7 @@ header:
 <hr style="border:1px solid gray">
 
 * <span style="color: #007DD9; font-weight: bold;">Chinese Government Scholarship</span> supported by the China Scholarship Council (CSC)
-  <br><font color="#CF4C73"><b>(Sept. 2024 - Sept. 2025)</b></font>
+  <br><font color="#CF4C73"><b>(Sep. 2024 - Sep. 2025)</b></font>
 
 * Attending the 73rd Lindau Nobel Laureate Meeting supported by the <span style="color: #007DD9; font-weight: bold;">Sino-German Center for Research Promotion</span> and the <span style="color: #007DD9; font-weight: bold;">Council for the Lindau Nobel Laureate Meetings</span>
   <br><font color="#CF4C73"><b>(July 2024 - Aug. 2024)</b></font>
