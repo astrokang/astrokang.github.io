@@ -42,7 +42,7 @@ I also list my publications below for consistency (* marks the corresponding aut
 3. **Shared properties of merger-driven long-duration gamma-ray bursts** 
   <br>
   <br>
-  <span style="color: #007DD9; font-weight: bold;">Y. Kang</span><sup> * </sup>, J.-P. Zhu, Y.-H. Yang, Z. Wang, E. Troja, B. Zhang, L. Shao<sup> * </sup>, Z. Li.
+  <span style="color: #007DD9; font-weight: bold;">Y. Kang <sup> * </sup></span>, J.-P. Zhu, Y.-H. Yang, Z. Wang, E. Troja, B. Zhang, L. Shao<sup> * </sup>, Z. Li.
   <br>
   <br>
   [ArXiv: 2505.10165](https://arxiv.org/abs/2505.10165)
