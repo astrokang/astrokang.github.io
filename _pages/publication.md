@@ -26,7 +26,7 @@ I also list my publications below for consistency (* marks the corresponding aut
 1. **Macronova Emission from Neutron Star–White Dwarf Mergers** 
   <br>
   <br>
-  <span style="color: #007DD9; font-weight: bold;">Y. Kang</span>, J.-P. Zhu<sup> * </sup>, Y. Gao, J. Zhong, J. Zhang, B. Zhang<sup> * </sup>, L. Shao<sup> * </sup>.
+  <span style="color: #007DD9; font-weight: bold;">Y. Kang<sup> * </sup></span>, J.-P. Zhu<sup> * </sup>, Y. Gao, B. Zhang, L. Shao<sup> * </sup>, J. Zhong, J. Zhang, Z. Li.
   <br>
   <br>
   *In prep.*
