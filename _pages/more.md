@@ -30,7 +30,7 @@ header:
 * <span style="color: #007DD9; font-weight: bold;">Chinese Government Scholarship</span> supported by the China Scholarship Council (CSC)
   <br><font color="#CF4C73"><b>(Sep. 2024 - Sep. 2025)</b></font>
 
-* Attending the 73rd Lindau Nobel Laureate Meeting supported by the <span style="color: #007DD9; font-weight: bold;">Sino-German Center for Research Promotion</span> and the <span style="color: #007DD9; font-weight: bold;">Council for the Lindau Nobel Laureate Meetings</span>
+* <span style="color: #007DD9; font-weight: bold;">Attending the 73rd Lindau Nobel Laureate Meeting</span> supported by the Sino-German Center for Research Promotion and the Council for the Lindau Nobel Laureate Meetings
   <br><font color="#CF4C73"><b>(July 2024 - Aug. 2024)</b></font>
 
 * <span style="color: #007DD9; font-weight: bold;">Graduate Academic Exchange Foundation</span> in Peking University
