@@ -66,6 +66,9 @@ header:
 
 # 2022
 
+* <span style="color: #007DD9; font-weight: bold;">Lin-Bridge Endowment</span> in Nanjing University
+  <br><font color="#CF4C73"><b>(Oct. 2022)</b></font>
+  
 * <span style="color: #007DD9; font-weight: bold;">First Prize</span> for the 5th Chinese undergraduate Astronomical Innovation Contest (CAIC)
   <br><font color="#CF4C73"><b>(Aug. 2022)</b></font>
 
