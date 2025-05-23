@@ -59,7 +59,7 @@ header:
 * <span style="color: #007DD9; font-weight: bold;">2022-2023 Merit Student</span> in Peking University
   <br><font color="#CF4C73"><b>(Dec. 2023)</b></font>
   
-* <span style="color: #007DD9; font-weight: bold;">President Scholarship</span> for PhD Students in Peking University
+* <span style="color: #007DD9; font-weight: bold;">2022-2023 President Scholarship</span> for PhD Students in Peking University
   <br><font color="#CF4C73"><b>(June 2023)</b></font>
 
 <hr style="border:1px solid gray">
