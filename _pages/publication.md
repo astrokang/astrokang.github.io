@@ -47,15 +47,7 @@ I also list my publications below for consistency (* marks the corresponding aut
   <br>
   [ArXiv: 2506.08368](https://arxiv.org/abs/2506.08368)
 
-4. **Shared properties of merger-driven long-duration gamma-ray bursts** 
-  <br>
-  <br>
-  <span style="color: #007DD9; font-weight: bold;">Y. Kang <sup> * </sup></span>, J.-P. Zhu, Y.-H. Yang, Z. Wang, E. Troja, B. Zhang, L. Shao<sup> * </sup>, Z. Li.
-  <br>
-  <br>
-  [ArXiv: 2505.10165](https://arxiv.org/abs/2505.10165)
-
-5. **Radio observations point to a moderately relativistic outflow in the fast X-ray transient EP241021a** 
+4. **Radio observations point to a moderately relativistic outflow in the fast X-ray transient EP241021a** 
   <br>
   <br>
   M. Yadav<sup> * </sup>, E. Troja, R. Ricci, Y.-H. Yang, P. Veres, M. H. Wieringa, B. O'Connor, <font color="#007DD9"><b>Y. Kang</b></font>, R. L. Becerra, G. Ryan, M. Busmann.
@@ -63,13 +55,23 @@ I also list my publications below for consistency (* marks the corresponding aut
   <br>
   [ArXiv: 2505.08781](https://arxiv.org/abs/2505.08781)
 
-6. **Probing intermediate-mass black hole binaries with the Lunar Gravitational-wave Antenna** 
+5. **Probing intermediate-mass black hole binaries with the Lunar Gravitational-wave Antenna** 
   <br>
   <br>
   H. Song, H. Yan, <font color="#007DD9"><b>Y. Kang</b></font>, X. Chen, J. Zhao, L. Shao<sup> * </sup>.
   <br>
   <br>
   [ArXiv: 2502.02995](https://arxiv.org/abs/2502.02995)
+
+6. **Shared properties of merger-driven long-duration gamma-ray bursts** 
+  <br>
+  <br>
+  <span style="color: #007DD9; font-weight: bold;">Y. Kang <sup> * </sup></span>, J.-P. Zhu, Y.-H. Yang, Z. Wang, E. Troja, B. Zhang, L. Shao<sup> * </sup>, Z. Li.
+  <br>
+  <br>
+  [Astron. & Astrophys. 698 (2025) A250](https://www.aanda.org/articles/aa/full_html/2025/06/aa54448-25/aa54448-25.html)
+
+---
 
 # 2024
 
