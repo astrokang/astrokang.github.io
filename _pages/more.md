@@ -27,7 +27,7 @@ header:
 
 <hr style="border:1px solid gray">
 
-* <span style="color: #007DD9; font-weight: bold;">Qiyan Undergraduate Program</span> supported by <span style="color: #007DD9; font-weight: bold;">Beijing Natural Science Foundation</span> [Co-Investigator]
+* <span style="color: #007DD9; font-weight: bold;">Qiyan Undergraduate Program</span> supported by the <span style="color: #007DD9; font-weight: bold;">Beijing Natural Science Foundation</span> [Co-Investigator]
   <br><font color="#CF4C73"><b>(July 2025 - June 2027)</b></font>
 
 * <span style="color: #007DD9; font-weight: bold;">Chinese Government Scholarship</span> supported by the China Scholarship Council (CSC)
