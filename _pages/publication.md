@@ -34,7 +34,7 @@ I also list my publications below for consistency (* marks the corresponding aut
 2. **Gamma-ray leakage effects on magnetar-powered superluminous supernovae with gravitational wave emission** 
   <br>
   <br>
-  J. Zhang, <font color="#007DD9"><b>Y. Kang<sup> * </sup></b></font>, J. Zhong, H.-B. Li<sup> * </sup>, L.-D. Liu, Y.-W. Yu, Y. Gao, L. Shao<sup> * </sup>.
+  J. Zhang, <font color="#007DD9"><b>Y. Kang<sup> * </sup></b></font>, J. Zhong, H.-B. Li<sup> * </sup>, L.-D. Liu, Y.-W. Yu, Y. Gao, L. Shao&nbsp;<sup>*</sup>.
   <br>
   <br>
   *In prep.*
@@ -55,7 +55,7 @@ I also list my publications below for consistency (* marks the corresponding aut
   <br>
   *Submitted*
 
-5. **Prospects for time-domain and multi-Messenger science with eXTP** 
+5. **Prospects for time-domain and multi-messenger science with eXTP** 
   <br>
   <br>
   S.-X. Yi, ..., <span style="color: #007DD9; font-weight: bold;">Y. Kang</span>, ..., E.-W. Liang.
