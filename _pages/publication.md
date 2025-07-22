@@ -34,7 +34,7 @@ I also list my publications below for consistency (* marks the corresponding aut
 2. **Gamma-ray leakage effects on magnetar-powered superluminous supernovae with gravitational wave emission** 
   <br>
   <br>
-  J. Zhang, <font color="#007DD9"><b>Y. Kang<sup> * </sup></b></font>, J. Zhong, H.-B. Li<sup> * </sup>, L.-D. Liu, Y.-W. Yu, Y. Gao, L. Shao&nbsp;<sup>*</sup>.
+  J. Zhang, <font color="#007DD9"><b>Y. Kang<sup> * </sup></b></font>, J. Zhong, H.-B. Li<sup> * </sup>, L.-D. Liu, Y.-W. Yu, Y. Gao, <nobr>L. Shao<sup>*</sup></nobr>.
   <br>
   <br>
   *In prep.*
