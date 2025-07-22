@@ -26,6 +26,9 @@ header:
 
 <hr style="border:1px solid gray">
 
+* <span style="color: #007DD9; font-weight: bold;">Electrodynamics (A)</span> in Peking University, taught by [Prof. Lijing Shao](http://friendshao.github.io/about/)
+  <br><font color="#CF4C73"><b>(Fall 2025)</b></font>
+  
 * <span style="color: #007DD9; font-weight: bold;">Theoretical Mechanics (A)</span> in Peking University, taught by [Prof. Lijing Shao](http://friendshao.github.io/about/)
   <br><font color="#CF4C73"><b>(Spring 2024)</b></font>
 
