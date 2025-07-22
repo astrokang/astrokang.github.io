@@ -42,7 +42,7 @@ I also list my publications below for consistency (* marks the corresponding aut
 3. **Nova brevis from magnetar giant flares: a new window on neutron star crusts** 
   <br>
   <br>
-  J. Zhong, <font color="#007DD9"><b>Y. Kang<sup> * </sup></b></font>, J. Zhang, M.-H. Chen<sup> * </sup>, E.-W Liang, H.-B. Li, Y. Gao, L. Shao<sup> * </sup>.
+  J. Zhong, <font color="#007DD9"><b>Y. Kang<sup> * </sup></b></font>, J. Zhang, M.-H. Chen<sup> * </sup>, E.-W Liang, H.-B. Li, Y. Gao, <nobr>L. Shao<sup>*</sup></nobr>.
   <br>
   <br>
   *In prep.*
@@ -66,7 +66,7 @@ I also list my publications below for consistency (* marks the corresponding aut
 6. **Radio observations point to a moderately relativistic outflow in the fast X-ray transient EP241021a** 
   <br>
   <br>
-  M. Yadav<sup> * </sup>, E. Troja, R. Ricci, Y.-H. Yang, P. Veres, M. H. Wieringa, B. O'Connor, <font color="#007DD9"><b>Y. Kang</b></font>, R. L. Becerra, G. Ryan, M. Busmann.
+  M. Yadav<sup> * </sup>, E. Troja, R. Ricci, Y.-H. Yang, P. Veres, M. H. Wieringa, <nobr>B. O'Connor</nobr>, <font color="#007DD9"><b>Y. Kang</b></font>, R. L. Becerra, G. Ryan, M. Busmann.
   <br>
   <br>
   [ArXiv: 2505.08781](https://arxiv.org/abs/2505.08781)
@@ -82,7 +82,7 @@ I also list my publications below for consistency (* marks the corresponding aut
 8. **Shared properties of merger-driven long-duration gamma-ray bursts** 
   <br>
   <br>
-  <span style="color: #007DD9; font-weight: bold;">Y. Kang <sup> * </sup></span>, J.-P. Zhu, Y.-H. Yang, Z. Wang, E. Troja, B. Zhang, L. Shao<sup> * </sup>, Z. Li.
+  <span style="color: #007DD9; font-weight: bold;">Y. Kang <sup> * </sup></span>, J.-P. Zhu, Y.-H. Yang, Z. Wang, E. Troja, B. Zhang, L. Shao<sup> * </sup>, <nobr>Z. Li</nobr>.
   <br>
   <br>
   [Astron. & Astrophys. 698 (2025) A250](https://www.aanda.org/articles/aa/full_html/2025/06/aa54448-25/aa54448-25.html)
@@ -140,7 +140,7 @@ I also list my publications below for consistency (* marks the corresponding aut
 4. **GRB 211211A-like events and how gravitational waves may tell their origin** 
   <br>
   <br>
-  Y.-H. I. Yin, B.-B. Zhang<sup> * </sup>, H. Sun, J. Yang, <font color="#007DD9"><b>Y. Kang</b></font>, L. Shao, Y. Yang, B. Zhang.
+  Y.-H. I. Yin, B.-B. Zhang<sup> * </sup>, H. Sun, J. Yang, <font color="#007DD9"><b>Y. Kang</b></font>, L. Shao, Y. Yang, <nobr>B. Zhang</nobr>.
   <br>
   <br>
   [Astrophys. J. Lett. 954 (2023) L17](https://iopscience.iop.org/article/10.3847/2041-8213/acf04a)
@@ -148,7 +148,7 @@ I also list my publications below for consistency (* marks the corresponding aut
 5. **Kilonova and optical afterglow from binary neutron star mergers. II. Optimal search strategy for serendipitous observations and target-of-opportunity observations of gravitational-wave triggers** 
   <br>
   <br>
-  J.-P. Zhu<sup> * </sup>, S. Wu<sup> * </sup>, Y.-P. Yang<sup> * </sup>, C. Liu, B. Zhang<sup> * </sup>, H.-R. Song, H. Gao, Z. Cao, Y.-W. Yu, <font color="#007DD9"><b>Y. Kang</b></font>, L. Shao.
+  J.-P. Zhu<sup> * </sup>, S. Wu<sup> * </sup>, Y.-P. Yang<sup> * </sup>, C. Liu, B. Zhang<sup> * </sup>, H.-R. Song, H. Gao, <nobr>Z. Cao</nobr>, Y.-W. Yu, <font color="#007DD9"><b>Y. Kang</b></font>, L. Shao.
   <br>
   <br>
   [Astrophys. J. 942 (2023) 88](https://iopscience.iop.org/article/10.3847/1538-4357/aca527)
