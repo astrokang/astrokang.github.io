@@ -23,10 +23,10 @@ I also list my publications below for consistency (* marks the corresponding aut
 
 # 2025
 
-1. **Macronova Emission from Neutron Star–White Dwarf Mergers** 
+1. **Viewing-angle-dependent macronova emission from neutron star–white dwarf mergers** 
   <br>
   <br>
-  <span style="color: #007DD9; font-weight: bold;">Y. Kang</span>, J.-P. Zhu<sup> * </sup>, Y. Gao, B. Zhang<sup> * </sup>, L. Shao<sup> * </sup>, J. Zhong, J. Zhang, Z. Li.
+  <span style="color: #007DD9; font-weight: bold;">Y. Kang<sup> * </sup> </span>, J.-P. Zhu<sup> * </sup>, B. Zhang, L. Shao<sup> * </sup>, J. Zhong, J. Zhang.
   <br>
   <br>
   *In prep.*
@@ -34,12 +34,28 @@ I also list my publications below for consistency (* marks the corresponding aut
 2. **Gamma-ray leakage effects on magnetar-powered superluminous supernovae with gravitational wave emission** 
   <br>
   <br>
-  J. Zhang, J. Zhong, <font color="#007DD9"><b>Y. Kang<sup> * </sup></b></font>, H.-B. Li<sup> * </sup>, L. Shao<sup> * </sup>.
+  J. Zhang, <font color="#007DD9"><b>Y. Kang<sup> * </sup></b></font>, J. Zhong, H.-B. Li<sup> * </sup>, L.-D. Liu, Y.-W. Yu, Y. Gao, L. Shao<sup> * </sup>.
   <br>
   <br>
   *In prep.*
 
-3. **Prospects for Time-Domain and Multi-Messenger Science with eXTP** 
+3. **Nova brevis from magnetar giant flares: a new window on neutron star crusts** 
+  <br>
+  <br>
+  J. Zhong, <font color="#007DD9"><b>Y. Kang<sup> * </sup></b></font>, J. Zhang, M.-H. Chen<sup> * </sup>, E.-W Liang, H.-B. Li, Y. Gao, L. Shao<sup> * </sup>.
+  <br>
+  <br>
+  *In prep.*
+
+4. **Thermal deformation in ultraluminous X-ray pulsars: implications for continuous gravitational-Wave detectability** 
+  <br>
+  <br>
+  H.-B. Li<sup> * </sup>, <font color="#007DD9"><b>Y. Kang<sup> * </sup></b></font>, R. Xu<sup> * </sup>.
+  <br>
+  <br>
+  *Submitted*
+
+5. **Prospects for time-domain and multi-Messenger science with eXTP** 
   <br>
   <br>
   S.-X. Yi, ..., <span style="color: #007DD9; font-weight: bold;">Y. Kang</span>, ..., E.-W. Liang.
@@ -47,7 +63,7 @@ I also list my publications below for consistency (* marks the corresponding aut
   <br>
   [ArXiv: 2506.08368](https://arxiv.org/abs/2506.08368)
 
-4. **Radio observations point to a moderately relativistic outflow in the fast X-ray transient EP241021a** 
+6. **Radio observations point to a moderately relativistic outflow in the fast X-ray transient EP241021a** 
   <br>
   <br>
   M. Yadav<sup> * </sup>, E. Troja, R. Ricci, Y.-H. Yang, P. Veres, M. H. Wieringa, B. O'Connor, <font color="#007DD9"><b>Y. Kang</b></font>, R. L. Becerra, G. Ryan, M. Busmann.
@@ -55,7 +71,7 @@ I also list my publications below for consistency (* marks the corresponding aut
   <br>
   [ArXiv: 2505.08781](https://arxiv.org/abs/2505.08781)
 
-5. **Probing intermediate-mass black hole binaries with the Lunar Gravitational-wave Antenna** 
+7. **Probing intermediate-mass black hole binaries with the Lunar Gravitational-wave Antenna** 
   <br>
   <br>
   H. Song, H. Yan, <font color="#007DD9"><b>Y. Kang</b></font>, X. Chen, J. Zhao, L. Shao<sup> * </sup>.
@@ -63,7 +79,7 @@ I also list my publications below for consistency (* marks the corresponding aut
   <br>
   [ArXiv: 2502.02995](https://arxiv.org/abs/2502.02995)
 
-6. **Shared properties of merger-driven long-duration gamma-ray bursts** 
+8. **Shared properties of merger-driven long-duration gamma-ray bursts** 
   <br>
   <br>
   <span style="color: #007DD9; font-weight: bold;">Y. Kang <sup> * </sup></span>, J.-P. Zhu, Y.-H. Yang, Z. Wang, E. Troja, B. Zhang, L. Shao<sup> * </sup>, Z. Li.
