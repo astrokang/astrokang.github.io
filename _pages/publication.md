@@ -23,7 +23,7 @@ I also list my publications below for consistency (* marks the corresponding aut
 
 # 2025
 
-1. **Viewing-angle-dependent macronova emission from neutron star–white dwarf mergers** 
+1. **Viewing-angle-dependent kilonova emission from neutron star–white dwarf mergers** 
   <br>
   <br>
   <span style="color: #007DD9; font-weight: bold;">Y. Kang<sup> * </sup> </span>, J.-P. Zhu<sup> * </sup>, B. Zhang, L. Shao<sup> * </sup>, J. Zhong, J. Zhang.
@@ -34,7 +34,7 @@ I also list my publications below for consistency (* marks the corresponding aut
 2. **Gamma-ray leakage effects on magnetar-powered superluminous supernovae with gravitational wave emission** 
   <br>
   <br>
-  J. Zhang, <font color="#007DD9"><b>Y. Kang<sup> * </sup></b></font>, J. Zhong, H.-B. Li<sup> * </sup>, L.-D. Liu, Y.-W. Yu, Y. Gao, <nobr>L. Shao<sup>*</sup></nobr>.
+  J. Zhang, <font color="#007DD9"><b>Y. Kang<sup> * </sup></b></font>, J. Zhong, H.-B. Li<sup> * </sup>, L.-D. Liu, Y.-W. Yu, <nobr>L. Shao<sup>*</sup></nobr>.
   <br>
   <br>
   *In prep.*
@@ -42,7 +42,7 @@ I also list my publications below for consistency (* marks the corresponding aut
 3. **Nova brevis from magnetar giant flares: a new window on neutron star crusts** 
   <br>
   <br>
-  J. Zhong, <font color="#007DD9"><b>Y. Kang<sup> * </sup></b></font>, J. Zhang, M.-H. Chen<sup> * </sup>, E.-W Liang, H.-B. Li, Y. Gao, <nobr>L. Shao<sup>*</sup></nobr>.
+  J. Zhong, <font color="#007DD9"><b>Y. Kang<sup> * </sup></b></font>, J. Zhang, M.-H. Chen<sup> * </sup>, E.-W Liang, H.-B. Li, <nobr>L. Shao<sup>*</sup></nobr>.
   <br>
   <br>
   *In prep.*
