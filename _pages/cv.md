@@ -45,7 +45,7 @@ header:
 <hr style="border:1px solid gray">
 
 * <b>[Prof. Eleonora Troja](https://eleonoratroja.wordpress.com)</b> in University of Rome - Tor Vergata, IT
-  <br><font color="#CF4C73"><b>(Sep. 2024 − Sep. 2025)</b></font>
+  <br><font color="#CF4C73"><b>(Sep. 2024 − Aug. 2025)</b></font>
 
 * <b>[Prof. Zhuo Li](https://faculty.pku.edu.cn/lizhuo1/zh_CN/index/7734/list/index.htm)</b> in Peking University, CN
   <br><font color="#CF4C73"><b>(Sep. 2023 − Present)</b></font>
