@@ -31,7 +31,7 @@ I also list my publications below for consistency (* marks the corresponding aut
   <br>
   *In prep.*
 
-2. **Gamma-ray leakage effects on magnetar-powered superluminous supernovae with gravitational wave emission** 
+2. **Distinctive lightcurve features of magnetar-powered superluminous supernovae with combined gravitational-wave emission and high-energy leakage** 
   <br>
   <br>
   J. Zhang, <font color="#007DD9"><b>Y. Kang<sup> * </sup></b></font>, J. Zhong, H.-B. Li<sup> * </sup>, L.-D. Liu, Y.-W. Yu, <nobr>L. Shao<sup>*</sup></nobr>.
@@ -42,7 +42,7 @@ I also list my publications below for consistency (* marks the corresponding aut
 3. **Nova brevis from magnetar giant flares: a new window on neutron star crusts** 
   <br>
   <br>
-  J. Zhong, <font color="#007DD9"><b>Y. Kang<sup> * </sup></b></font>, J. Zhang, M.-H. Chen<sup> * </sup>, E.-W Liang, H.-B. Li, <nobr>L. Shao<sup>*</sup></nobr>.
+  J. Zhong, <font color="#007DD9"><b>Y. Kang<sup> * </sup></b></font>, Q.-H. Chen, J. Zhang, M.-H. Chen<sup> * </sup>, H.-B. Li, R. Xu, <nobr>L. Shao<sup>*</sup></nobr>.
   <br>
   <br>
   *In prep.*
