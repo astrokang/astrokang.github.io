@@ -31,7 +31,7 @@ I also list my publications below for consistency (* marks the corresponding aut
   <br>
   *In prep.*
 
-2. **Distinctive lightcurve features of magnetar-powered superluminous supernovae with combined gravitational-wave emission and high-energy leakage** 
+2. **Lightcurve features of magnetar-powered superluminous supernovae with gravitational-wave emission and high-energy leakage** 
   <br>
   <br>
   J. Zhang, <font color="#007DD9"><b>Y. Kang<sup> * </sup></b></font>, J. Zhong, H.-B. Li<sup> * </sup>, L.-D. Liu, Y.-W. Yu, <nobr>L. Shao<sup>*</sup></nobr>.
@@ -71,13 +71,13 @@ I also list my publications below for consistency (* marks the corresponding aut
   <br>
   [ArXiv: 2505.08781](https://arxiv.org/abs/2505.08781)
 
-7. **Probing intermediate-mass black hole binaries with the Lunar Gravitational-wave Antenna** 
+7. **Probing intermediate-mass black hole binaries with the lunar gravitational-wave antenna** 
   <br>
   <br>
   H. Song, H. Yan, <font color="#007DD9"><b>Y. Kang</b></font>, X. Chen, J. Zhao, L. Shao<sup> * </sup>.
   <br>
   <br>
-  [ArXiv: 2502.02995](https://arxiv.org/abs/2502.02995)
+  [npj Space Explor. 1 (2025) 2](https://www.nature.com/articles/s44453-025-00002-z)
 
 8. **Shared properties of merger-driven long-duration gamma-ray bursts** 
   <br>
