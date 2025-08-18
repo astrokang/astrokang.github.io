@@ -23,10 +23,10 @@ I also list my publications below for consistency (* marks the corresponding aut
 
 # 2025
 
-1. **Viewing-angle-dependent kilonova emission from neutron star–white dwarf mergers** 
+1. **Kilonova emission from white dwarf-neutron star mergers: Viewing-angle-dependent spectra and lightcurves** 
   <br>
   <br>
-  <span style="color: #007DD9; font-weight: bold;">Y. Kang<sup> * </sup> </span>, J.-P. Zhu<sup> * </sup>, B. Zhang, L. Shao<sup> * </sup>, J. Zhong, J. Zhang.
+  <span style="color: #007DD9; font-weight: bold;">Y. Kang<sup> * </sup> </span>, J.-P. Zhu<sup> * </sup>, L. Shao<sup> * </sup>, J. Zhong, J. Zhang, B. Zhang.
   <br>
   <br>
   *In prep.*
