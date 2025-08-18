@@ -47,7 +47,7 @@ I also list my publications below for consistency (* marks the corresponding aut
   <br>
   *In prep.*
 
-4. **Thermal deformation in ultraluminous X-ray pulsars: implications for continuous gravitational-Wave detectability** 
+4. **Thermal deformation in ultraluminous X-ray pulsars: implications for continuous gravitational-wave detectability** 
   <br>
   <br>
   H.-B. Li<sup> * </sup>, <font color="#007DD9"><b>Y. Kang<sup> * </sup></b></font>, R. Xu<sup> * </sup>.
