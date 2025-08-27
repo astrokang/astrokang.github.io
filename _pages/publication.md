@@ -29,7 +29,7 @@ I also list my publications below for consistency (* marks the corresponding aut
   <span style="color: #007DD9; font-weight: bold;">Y. Kang<sup> * </sup> </span>, J.-P. Zhu<sup> * </sup>, L. Shao<sup> * </sup>, J. Zhong, J. Zhang, B. Zhang.
   <br>
   <br>
-  *In prep.*
+  *Submitted*
 
 2. **Lightcurve features of magnetar-powered superluminous supernovae with gravitational-wave emission and high-energy leakage** 
   <br>
@@ -37,9 +37,9 @@ I also list my publications below for consistency (* marks the corresponding aut
   J. Zhang, <font color="#007DD9"><b>Y. Kang<sup> * </sup></b></font>, J. Zhong, H.-B. Li<sup> * </sup>, L.-D. Liu, Y.-W. Yu, <nobr>L. Shao<sup>*</sup></nobr>.
   <br>
   <br>
-  *In prep.*
+  [ArXiv: 2508.18940](https://arxiv.org/abs/2508.18940)
 
-3. **Nova brevis from magnetar giant flares: a new window on neutron star crusts** 
+3. **Nova brevis from magnetar giant flares: A new window on neutron star crusts** 
   <br>
   <br>
   J. Zhong, <font color="#007DD9"><b>Y. Kang<sup> * </sup></b></font>, Q.-H. Chen, J. Zhang, M.-H. Chen<sup> * </sup>, H.-B. Li, R. Xu, <nobr>L. Shao<sup>*</sup></nobr>.
@@ -47,7 +47,7 @@ I also list my publications below for consistency (* marks the corresponding aut
   <br>
   *In prep.*
 
-4. **Thermal deformation in ultraluminous X-ray pulsars: implications for continuous gravitational-wave detectability** 
+4. **Thermal deformation in ultraluminous X-ray pulsars: Implications for continuous gravitational-wave detectability** 
   <br>
   <br>
   H.-B. Li<sup> * </sup>, <font color="#007DD9"><b>Y. Kang<sup> * </sup></b></font>, R. Xu<sup> * </sup>.
