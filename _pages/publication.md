@@ -47,7 +47,7 @@ I also list my publications below for consistency (* marks the corresponding aut
   <br>
   *In prep.*
 
-4. **Thermal deformation in ultraluminous X-ray pulsars: Implications for continuous gravitational-wave detectability** 
+4. **Thermal deformation in super-Eddington magnetized neutron stars: Implications for continuous gravitational-wave detectability** 
   <br>
   <br>
   H.-B. Li<sup> * </sup>, <font color="#007DD9"><b>Y. Kang<sup> * </sup></b></font>, R. Xu<sup> * </sup>.
@@ -61,7 +61,7 @@ I also list my publications below for consistency (* marks the corresponding aut
   S.-X. Yi, ..., <span style="color: #007DD9; font-weight: bold;">Y. Kang</span>, ..., E.-W. Liang.
   <br>
   <br>
-  [ArXiv: 2506.08368](https://arxiv.org/abs/2506.08368)
+  [Sci. China Phys. Mech. Astron. 68 (2025) 119506](https://link.springer.com/article/10.1007/s11433-025-2782-2)
 
 6. **Radio observations point to a moderately relativistic outflow in the fast X-ray transient EP241021a** 
   <br>
