@@ -10,6 +10,20 @@ header:
     overlay_filter: 0.1 
 ---
 
+# 2025
+ 
+* **Working Retreat of the ERC team (Bormio, Lombardy, Italy)**
+  <br>
+  <br>
+  <span style="color: #007DD9; font-weight: bold;">Oral Presentation:</span> Prospects for detecting neutron star–white dwarf mergers with decihertz gravitational-wave observatories
+  <br>
+  <br>
+  <span style="color: #007DD9; font-weight: bold;">Oral Presentation:</span> Implications for shared properties of merger-driven long-duration 
+gamma-ray bursts
+  <br><font color="#CF4C73"><b>(Feb. 2025)</b></font> 
+
+<hr style="border:1px solid gray">
+
 # 2024
  
 * **The 3rd Nanjing GRB Conference (Suzhou, Jiangsu, China)**
