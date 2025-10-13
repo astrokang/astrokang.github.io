@@ -47,6 +47,14 @@ header:
 
 <hr style="border:1px solid gray">
 
+# 2025
+
+* 2024-2025 <span style="color: #007DD9; font-weight: bold;">Merit Student</span> in Peking University
+  <br><font color="#CF4C73"><b>(Oct. 2025)</b></font>
+
+* <span style="color: #007DD9; font-weight: bold;">Hailiang Education Scholarship</span> in Peking University
+  <br><font color="#CF4C73"><b>(Oct. 2024)</b></font>
+
 # 2024
 
 * 2023-2024 <span style="color: #007DD9; font-weight: bold;">Merit Student</span> in Peking University
