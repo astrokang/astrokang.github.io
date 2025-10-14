@@ -53,7 +53,7 @@ I also list my publications below for consistency (* marks the corresponding aut
   H.-B. Li<sup> * </sup>, <font color="#007DD9"><b>Y. Kang<sup> * </sup></b></font>, R. Xu<sup> * </sup>.
   <br>
   <br>
-  *Submitted*
+  [ArXiv: 2510.10443](https://arxiv.org/abs/2510.10443)
 
 5. **Prospects for time-domain and multi-messenger science with eXTP** 
   <br>
