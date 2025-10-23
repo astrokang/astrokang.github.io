@@ -42,7 +42,7 @@ I also list my publications below for consistency (* marks the corresponding aut
 3. **Nova brevis from magnetar giant flares: A new window on neutron star crusts** 
   <br>
   <br>
-  J. Zhong, <font color="#007DD9"><b>Y. Kang<sup> * </sup></b></font>, Q.-H. Chen, J. Zhang, M.-H. Chen<sup> * </sup>, H.-B. Li, R. Xu, <nobr>L. Shao<sup>*</sup></nobr>.
+  J. Zhong, <font color="#007DD9"><b>Y. Kang<sup> * </sup></b></font>, Q.-H. Chen, J. Zhang, M.-H. Chen, H.-B. Li, R. Xu, <nobr>L. Shao<sup>*</sup></nobr>.
   <br>
   <br>
   *In prep.*
