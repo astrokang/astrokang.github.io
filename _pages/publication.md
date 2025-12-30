@@ -23,13 +23,13 @@ I also list my publications below for consistency (* marks the corresponding aut
 
 # 2025
 
-1. **Kilonova emission from white dwarf-neutron star mergers: Viewing-angle-dependent spectra and lightcurves** 
+1. **Mini-supernovae from white dwarf-neutron star mergers: Viewing-angle-dependent spectra and light curves** 
   <br>
   <br>
   <span style="color: #007DD9; font-weight: bold;">Y. Kang<sup> * </sup> </span>, J.-P. Zhu<sup> * </sup>, L. Shao<sup> * </sup>, J. Zhong, J. Zhang, B. Zhang.
   <br>
   <br>
-  *Submitted*
+  [ArXiv: 2512.04378](https://arxiv.org/abs/2512.04378)
 
 2. **Lightcurve features of magnetar-powered superluminous supernovae with gravitational-wave emission and high-energy leakage** 
   <br>
@@ -39,13 +39,13 @@ I also list my publications below for consistency (* marks the corresponding aut
   <br>
   [ArXiv: 2508.18940](https://arxiv.org/abs/2508.18940)
 
-3. **Nova brevis from magnetar giant flares: A new window on neutron star crusts** 
+3. **Nova brevis from magnetar giant flares: A potential probe of neutron star crusts** 
   <br>
   <br>
-  J. Zhong, <font color="#007DD9"><b>Y. Kang<sup> * </sup></b></font>, Q.-H. Chen, J. Zhang, M.-H. Chen, H.-B. Li, R. Xu, <nobr>L. Shao<sup>*</sup></nobr>.
+  J. Zhong, Q.-H. Chen, <font color="#007DD9"><b>Y. Kang<sup> * </sup></b></font>, H.-B. Li, J. Zhang, M.-H. Chen, <nobr>L. Shao<sup>*</sup></nobr>.
   <br>
   <br>
-  *In prep.*
+  *To be submitted*
 
 4. **Thermal deformation in super-Eddington magnetized neutron stars: Implications for continuous gravitational-wave detectability** 
   <br>
@@ -69,7 +69,7 @@ I also list my publications below for consistency (* marks the corresponding aut
   M. Yadav<sup> * </sup>, E. Troja, R. Ricci, Y.-H. Yang, P. Veres, M. H. Wieringa, <nobr>B. O'Connor</nobr>, <font color="#007DD9"><b>Y. Kang</b></font>, R. L. Becerra, G. Ryan, M. Busmann.
   <br>
   <br>
-  [ArXiv: 2505.08781](https://arxiv.org/abs/2505.08781)
+  [Astrophys. J. 995 (2025) 216](https://iopscience.iop.org/article/10.3847/1538-4357/ae1746)
 
 7. **Probing intermediate-mass black hole binaries with the lunar gravitational-wave antenna** 
   <br>
