@@ -23,7 +23,7 @@ I also list my publications below for consistency (* marks the corresponding aut
 
 # 2025
 
-1. **Mini-supernovae from white dwarf-neutron star mergers: Viewing-angle-dependent spectra and light curves** 
+1. **Mini-supernovae from white dwarf–neutron star mergers: Viewing-angle-dependent spectra and light curves** 
   <br>
   <br>
   <span style="color: #007DD9; font-weight: bold;">Y. Kang<sup> * </sup> </span>, J.-P. Zhu<sup> * </sup>, L. Shao<sup> * </sup>, J. Zhong, J. Zhang, B. Zhang.
