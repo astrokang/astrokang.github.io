@@ -15,13 +15,13 @@ header:
 * **The 7th National Workshop on Multi-wavelength Studies of X-ray Binaries (Guiyang, Guizhou, China)**
   <br>
   <br>
-  <span style="color: #007DD9; font-weight: bold;">Oral Presentation:</span> Multimessenger studies of white dwarf-neutron star mergers
+  <span style="color: #007DD9; font-weight: bold;">Oral Presentation:</span> Multimessenger studies of white dwarf–neutron star mergers
   <br><font color="#CF4C73"><b>(Dec. 2025)</b></font> 
 
 * **2025 Annual Meeting of the Chinese Astronomical Society (Xiamen, Fujian, China)**
   <br>
   <br>
-  <span style="color: #007DD9; font-weight: bold;">Oral Presentation:</span> Multimessenger studies of white dwarf-neutron star mergers
+  <span style="color: #007DD9; font-weight: bold;">Oral Presentation:</span> Multimessenger studies of white dwarf–neutron star mergers
   <br><font color="#CF4C73"><b>(Nov. 2025)</b></font> 
  
 * **Working Retreat of the ERC team (Bormio, Lombardy, Italy)**
