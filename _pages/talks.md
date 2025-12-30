@@ -11,6 +11,18 @@ header:
 ---
 
 # 2025
+
+* **The 7th National Workshop on Multi-wavelength Studies of X-ray Binaries (Guiyang, Guizhou, China)**
+  <br>
+  <br>
+  <span style="color: #007DD9; font-weight: bold;">Oral Presentation:</span> Multimessenger studies of white dwarf-neutron star mergers
+  <br><font color="#CF4C73"><b>(Dec. 2025)</b></font> 
+
+* **2025 Annual Meeting of the Chinese Astronomical Society (Xiamen, Fujian, China)**
+  <br>
+  <br>
+  <span style="color: #007DD9; font-weight: bold;">Oral Presentation:</span> Multimessenger studies of white dwarf-neutron star mergers
+  <br><font color="#CF4C73"><b>(Nov. 2025)</b></font> 
  
 * **Working Retreat of the ERC team (Bormio, Lombardy, Italy)**
   <br>
@@ -36,7 +48,7 @@ gamma-ray bursts
 
 # 2023
  
-* **The 2023 Asia-Pacific Regional IAU Meeting (Koriyama, Fukushima, Japan)**
+* **2023 Asia-Pacific Regional IAU Meeting (Koriyama, Fukushima, Japan)**
   <br>
   <br>
   <span style="color: #007DD9; font-weight: bold;">Oral Presentation:</span> Electromagnetic follow-up observations of binary neutron star mergers with early warnings from decihertz gravitational-wave observatories
@@ -61,7 +73,7 @@ gamma-ray bursts
   <span style="color: #007DD9; font-weight: bold;">Oral Presentation:</span> Multi-messenger early-warning detections of binary neutron star mergers
   <br><font color="#CF4C73"><b>(Aug. 2022)</b></font>
 
-* **The Lin-Bridge Exoplanet Symposium (Nanjing, Jiangsu, China)** 
+* **Lin-Bridge Exoplanet Symposium (Nanjing, Jiangsu, China)** 
   <br>
   <br>
   <span style="color: #007DD9; font-weight: bold;">Oral Presentation:</span> Prospects for detecting exoplanets around double white dwarfs with LISA and Taiji
@@ -94,7 +106,7 @@ gamma-ray bursts
   <span style="color: #007DD9; font-weight: bold;">Oral Presentation:</span> Prospects for detecting exoplanets around double white dwarfs with LISA and Taiji
   <br><font color="#CF4C73"><b>(May 2022)</b></font>
 
-* **The GWADW2022 (Online)** 
+* **GWADW2022 (Online)** 
   <br>
   <br>
   <span style="color: #00DCB1; font-weight: bold;">Poster Presentation:</span> Prospects for detecting exoplanets around double white dwarfs with LISA and Taiji
