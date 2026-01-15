@@ -21,7 +21,7 @@ I also list my publications below for consistency (* marks the corresponding aut
 </p>
 <hr style="border:1px solid gray">
 
-# 2025
+# 2026
 
 1. **Mini-supernovae from white dwarf–neutron star mergers: Viewing-angle-dependent spectra and light curves** 
   <br>
@@ -31,15 +31,7 @@ I also list my publications below for consistency (* marks the corresponding aut
   <br>
   [ArXiv: 2512.04378](https://arxiv.org/abs/2512.04378)
 
-2. **Lightcurve features of magnetar-powered superluminous supernovae with gravitational-wave emission and high-energy leakage** 
-  <br>
-  <br>
-  J. Zhang, <font color="#007DD9"><b>Y. Kang<sup> * </sup></b></font>, J. Zhong, H.-B. Li<sup> * </sup>, L.-D. Liu, Y.-W. Yu, <nobr>L. Shao<sup>*</sup></nobr>.
-  <br>
-  <br>
-  [ArXiv: 2508.18940](https://arxiv.org/abs/2508.18940)
-
-3. **Nova brevis from magnetar giant flares: A potential probe of neutron star crusts** 
+2. **Novae breves from magnetar giant flares: Potential probes of neutron star crusts** 
   <br>
   <br>
   J. Zhong, Q.-H. Chen, <font color="#007DD9"><b>Y. Kang<sup> * </sup></b></font>, H.-B. Li, J. Zhang, M.-H. Chen, <nobr>L. Shao<sup>*</sup></nobr>.
@@ -47,7 +39,7 @@ I also list my publications below for consistency (* marks the corresponding aut
   <br>
   *To be submitted*
 
-4. **Thermal deformation in super-Eddington magnetized neutron stars: Implications for continuous gravitational-wave detectability** 
+3. **Thermal deformation in super-Eddington magnetized neutron stars: Implications for continuous gravitational-wave detectability** 
   <br>
   <br>
   H.-B. Li<sup> * </sup>, <font color="#007DD9"><b>Y. Kang<sup> * </sup></b></font>, R. Xu<sup> * </sup>.
@@ -55,7 +47,19 @@ I also list my publications below for consistency (* marks the corresponding aut
   <br>
   [ArXiv: 2510.10443](https://arxiv.org/abs/2510.10443)
 
-5. **Prospects for time-domain and multi-messenger science with eXTP** 
+4. **Lightcurve features of magnetar-powered superluminous supernovae with gravitational-wave emission and high-energy leakage** 
+  <br>
+  <br>
+  J. Zhang, <font color="#007DD9"><b>Y. Kang<sup> * </sup></b></font>, J. Zhong, H.-B. Li<sup> * </sup>, L.-D. Liu, Y.-W. Yu, <nobr>L. Shao<sup>*</sup></nobr>.
+  <br>
+  <br>
+  [Res. Astron. Astrophys. 26 (2026) 035013](https://iopscience.iop.org/article/10.1088/1674-4527/ae2dec)
+
+---
+
+# 2025
+
+1. **Prospects for time-domain and multi-messenger science with eXTP** 
   <br>
   <br>
   S.-X. Yi, ..., <span style="color: #007DD9; font-weight: bold;">Y. Kang</span>, ..., E.-W. Liang.
@@ -63,7 +67,7 @@ I also list my publications below for consistency (* marks the corresponding aut
   <br>
   [Sci. China Phys. Mech. Astron. 68 (2025) 119506](https://link.springer.com/article/10.1007/s11433-025-2782-2)
 
-6. **Radio observations point to a moderately relativistic outflow in the fast X-ray transient EP241021a** 
+2. **Radio observations point to a moderately relativistic outflow in the fast X-ray transient EP241021a** 
   <br>
   <br>
   M. Yadav<sup> * </sup>, E. Troja, R. Ricci, Y.-H. Yang, P. Veres, M. H. Wieringa, <nobr>B. O'Connor</nobr>, <font color="#007DD9"><b>Y. Kang</b></font>, R. L. Becerra, G. Ryan, M. Busmann.
@@ -71,7 +75,7 @@ I also list my publications below for consistency (* marks the corresponding aut
   <br>
   [Astrophys. J. 995 (2025) 216](https://iopscience.iop.org/article/10.3847/1538-4357/ae1746)
 
-7. **Probing intermediate-mass black hole binaries with the lunar gravitational-wave antenna** 
+3. **Probing intermediate-mass black hole binaries with the lunar gravitational-wave antenna** 
   <br>
   <br>
   H. Song, H. Yan, <font color="#007DD9"><b>Y. Kang</b></font>, X. Chen, J. Zhao, L. Shao<sup> * </sup>.
@@ -79,7 +83,7 @@ I also list my publications below for consistency (* marks the corresponding aut
   <br>
   [npj Space Explor. 1 (2025) 2](https://www.nature.com/articles/s44453-025-00002-z)
 
-8. **Shared properties of merger-driven long-duration gamma-ray bursts** 
+4. **Shared properties of merger-driven long-duration gamma-ray bursts** 
   <br>
   <br>
   <span style="color: #007DD9; font-weight: bold;">Y. Kang <sup> * </sup></span>, J.-P. Zhu, Y.-H. Yang, Z. Wang, E. Troja, B. Zhang, L. Shao<sup> * </sup>, <nobr>Z. Li</nobr>.
