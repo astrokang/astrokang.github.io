@@ -15,12 +15,14 @@ header:
 <hr style="border:1px solid gray">
 
 * **Compact Star**
+  
+* **Gravitational Wave**
+
+* **Time-domain Astronomy**
 
 * **High-energy Astrophysics**
 
 * **Multi-messenger Astronomy**
-
-* **Gravitational Wave**
 
 
 # Projects & Funds
