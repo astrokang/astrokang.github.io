@@ -44,7 +44,7 @@ header:
 
 <hr style="border:1px solid gray">
 
-* <b>[Prof. Zhanfeng Mai](https://prof.gxu.edu.cn/teacherDetails/e245e8b5-dc01-4e9d-828f-1d4bc00858f4)</b> in Guangxi University, CN
+* <b>[Prof. Zhan-Feng Mai](https://prof.gxu.edu.cn/teacherDetails/e245e8b5-dc01-4e9d-828f-1d4bc00858f4)</b> in Guangxi University, CN
   <br><font color="#CF4C73"><b>(Apr. 2026)</b></font>
   
 * <b>[Prof. Eleonora Troja](https://eleonoratroja.wordpress.com)</b> in University of Rome - Tor Vergata, IT
