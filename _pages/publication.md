@@ -13,7 +13,7 @@ header:
 <p>
 In the online database:
 <span class="archive__item-title">
-<a href="https://orcid.org/0000-0001-7402-4927" style="color: #ADCC54;"><b>ORCiD</b></a> or <a href="https://ui.adsabs.harvard.edu/user/libraries/N78rK6DJTtWlkbq7paOPLA" style="color: #0A15FF;"><b>ADS</b></a>.
+<a href="https://orcid.org/0000-0001-7402-4927" style="color: #ADCC54;"><b>ORCiD</b></a>, <a href="https://ui.adsabs.harvard.edu/user/libraries/N78rK6DJTtWlkbq7paOPLA" style="color: #0A15FF;"><b>ADS</b></a>, and related <a href="https://ui.adsabs.harvard.edu/user/libraries/i6zbBBsiTq-ECVzd5GpuIQ" style="color: black; font-weight: bold;">GCNs</a>.. 
 </span>
 <br>
 <br>
@@ -23,31 +23,39 @@ I also list my publications below for consistency (* marks the corresponding aut
 
 # 2026
 
-1. **Mini-supernovae from white dwarf–neutron star mergers: Viewing-angle-dependent spectra and light curves** 
+1. **An Enhanced Formation Channel for Galactic Dual-Line Gravitational-Wave Sources: von Zeipel-Lidov-Kozai effect in Triples Involving Sgr A*** 
   <br>
   <br>
-  <span style="color: #007DD9; font-weight: bold;">Y. Kang<sup> * </sup> </span>, J.-P. Zhu<sup> * </sup>, L. Shao<sup> * </sup>, J. Zhong, J. Zhang, B. Zhang.
+   W.-F. Feng<sup> * </sup>, T. Liu, Y. Fang, <span style="color: #007DD9; font-weight: bold;">Y. Kang</span>, B. Liu, L. Shao<sup> * </sup>.
   <br>
   <br>
-  [ArXiv: 2512.04378](https://arxiv.org/abs/2512.04378)
+  [Submitted to ApJL](https://arxiv.org/abs/2602.10928)
 
-2. **Novae breves from magnetar giant flares: Potential probes of neutron star crusts** 
-  <br>
-  <br>
-  J. Zhong, Q.-H. Chen, <font color="#007DD9"><b>Y. Kang<sup> * </sup></b></font>, H.-B. Li, J. Zhang, M.-H. Chen, <nobr>L. Shao<sup>*</sup></nobr>.
-  <br>
-  <br>
-  *To be submitted*
-
-3. **Thermal deformation in super-Eddington magnetized neutron stars: Implications for continuous gravitational-wave detectability** 
+2. **Thermal deformation in super-Eddington magnetized neutron stars: Implications for continuous gravitational-wave detectability** 
   <br>
   <br>
   H.-B. Li<sup> * </sup>, <font color="#007DD9"><b>Y. Kang<sup> * </sup></b></font>, R. Xu<sup> * </sup>.
   <br>
   <br>
-  [ArXiv: 2510.10443](https://arxiv.org/abs/2510.10443)
+  [Accepted by ApJ](https://arxiv.org/abs/2510.10443)
 
-4. **Lightcurve features of magnetar-powered superluminous supernovae with gravitational-wave emission and high-energy leakage** 
+3. **Novae breves from magnetar giant flares: Potential probes of neutron star crusts** 
+  <br>
+  <br>
+  J. Zhong, Q.-H. Chen, <font color="#007DD9"><b>Y. Kang<sup> * </sup></b></font>, H.-B. Li, J. Zhang, M.-H. Chen, <nobr>L. Shao<sup>*</sup></nobr>.
+  <br>
+  <br>
+  [Accepted by A&A](https://arxiv.org/abs/2603.10500)
+
+4. **Mini-supernovae from white dwarf–neutron star mergers: Viewing-angle-dependent spectra and light curves** 
+  <br>
+  <br>
+  <span style="color: #007DD9; font-weight: bold;">Y. Kang<sup> * </sup> </span>, J.-P. Zhu<sup> * </sup>, L. Shao<sup> * </sup>, J. Zhong, J. Zhang, B. Zhang.
+  <br>
+  <br>
+  [Astron. & Astrophys. 706 (2026) A106](https://www.aanda.org/articles/aa/full_html/2026/02/aa56971-25/aa56971-25.html)
+
+5. **Lightcurve features of magnetar-powered superluminous supernovae with gravitational-wave emission and high-energy leakage** 
   <br>
   <br>
   J. Zhang, <font color="#007DD9"><b>Y. Kang<sup> * </sup></b></font>, J. Zhong, H.-B. Li<sup> * </sup>, L.-D. Liu, Y.-W. Yu, <nobr>L. Shao<sup>*</sup></nobr>.
@@ -62,7 +70,7 @@ I also list my publications below for consistency (* marks the corresponding aut
 1. **Prospects for time-domain and multi-messenger science with eXTP** 
   <br>
   <br>
-  S.-X. Yi, ..., <span style="color: #007DD9; font-weight: bold;">Y. Kang</span>, ..., E.-W. Liang.
+  S.-X. Yi <sup> * </sup>, ..., <span style="color: #007DD9; font-weight: bold;">Y. Kang</span>, ..., L. de Sá.
   <br>
   <br>
   [Sci. China Phys. Mech. Astron. 68 (2025) 119506](https://link.springer.com/article/10.1007/s11433-025-2782-2)
