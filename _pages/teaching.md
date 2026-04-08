@@ -16,7 +16,7 @@ header:
 
 # Co-advising
 
-* <b>[Jiahang Zhong](https://orcid.org/0009-0008-2673-1764)</b> [2024 - Present]
+* <b>[Jiahang Zhong](https://orcid.org/0009-0008-2673-1764)</b> [2024 - 2026]
   <br><span style="color: #CF4C73;">(Undergraduate student in the Department of Astronomy, Peking University)</span>
 
 * <b>[Jinghao Zhang](https://orcid.org/0009-0002-1101-2798)</b> [2024 - 2025]
