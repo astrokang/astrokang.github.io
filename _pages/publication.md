@@ -31,21 +31,21 @@ I also list my publications below for consistency (* marks the corresponding aut
   <br>
   [Submitted to ApJL](https://arxiv.org/abs/2602.10928)
 
-2. **Thermal deformation in super-Eddington magnetized neutron stars: Implications for continuous gravitational-wave detectability** 
-  <br>
-  <br>
-  H.-B. Li<sup> * </sup>, <font color="#007DD9"><b>Y. Kang<sup> * </sup></b></font>, R. Xu<sup> * </sup>.
-  <br>
-  <br>
-  [Accepted by ApJ](https://arxiv.org/abs/2510.10443)
-
-3. **Novae breves from magnetar giant flares: Potential probes of neutron star crusts** 
+2. **Novae breves from magnetar giant flares: Potential probes of neutron star crusts** 
   <br>
   <br>
   J. Zhong, Q.-H. Chen, <font color="#007DD9"><b>Y. Kang<sup> * </sup></b></font>, H.-B. Li, J. Zhang, M.-H. Chen, <nobr>L. Shao<sup>*</sup></nobr>.
   <br>
   <br>
   [Accepted by A&A](https://arxiv.org/abs/2603.10500)
+
+3. **Thermal deformation in super-Eddington magnetized neutron stars: Implications for continuous gravitational-wave detectability** 
+  <br>
+  <br>
+  H.-B. Li<sup> * </sup>, <font color="#007DD9"><b>Y. Kang<sup> * </sup></b></font>, R. Xu<sup> * </sup>.
+  <br>
+  <br>
+  [Astrophys. J. 1002 (2026) 87](https://iopscience.iop.org/article/10.3847/1538-4357/ae5b66)
 
 4. **Mini-supernovae from white dwarf–neutron star mergers: Viewing-angle-dependent spectra and light curves** 
   <br>
