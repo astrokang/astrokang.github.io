@@ -23,15 +23,23 @@ I also list my publications below for consistency (* marks the corresponding aut
 
 # 2026
 
-1. **An Enhanced Formation Channel for Galactic Dual-Line Gravitational-Wave Sources: von Zeipel-Lidov-Kozai effect in Triples Involving Sgr A*** 
+1. **An agentic framework for gravitational-wave counterpart association in the multi-messenger era** 
+  <br>
+  <br>
+   Y. Dong, <span style="color: #007DD9; font-weight: bold;">Y. Kang</span>, J. Zhao, X. Zhu, Z. Wang, L. Shao<sup> * </sup>.
+  <br>
+  <br>
+  [Submitted](https://arxiv.org/abs/2605.10584)
+
+2. **An enhanced formation channel for galactic dual-line gravitational-wave sources: von Zeipel-Lidov-Kozai effect in triples involving Sgr A*** 
   <br>
   <br>
    W.-F. Feng<sup> * </sup>, T. Liu, Y. Fang, <span style="color: #007DD9; font-weight: bold;">Y. Kang</span>, B. Liu, L. Shao<sup> * </sup>.
   <br>
   <br>
-  [Submitted to ApJL](https://arxiv.org/abs/2602.10928)
+  [Accepted by ApJL](https://arxiv.org/abs/2602.10928)
 
-2. **Novae breves from magnetar giant flares: Potential probes of neutron star crusts** 
+3. **Novae breves from magnetar giant flares: Potential probes of neutron star crusts** 
   <br>
   <br>
   J. Zhong, Q.-H. Chen, <font color="#007DD9"><b>Y. Kang<sup> * </sup></b></font>, H.-B. Li, J. Zhang, M.-H. Chen, <nobr>L. Shao<sup>*</sup></nobr>.
@@ -39,7 +47,7 @@ I also list my publications below for consistency (* marks the corresponding aut
   <br>
   [Accepted by A&A](https://arxiv.org/abs/2603.10500)
 
-3. **Thermal deformation in super-Eddington magnetized neutron stars: Implications for continuous gravitational-wave detectability** 
+4. **Thermal deformation in super-Eddington magnetized neutron stars: Implications for continuous gravitational-wave detectability** 
   <br>
   <br>
   H.-B. Li<sup> * </sup>, <font color="#007DD9"><b>Y. Kang<sup> * </sup></b></font>, R. Xu<sup> * </sup>.
@@ -47,7 +55,7 @@ I also list my publications below for consistency (* marks the corresponding aut
   <br>
   [Astrophys. J. 1002 (2026) 87](https://iopscience.iop.org/article/10.3847/1538-4357/ae5b66)
 
-4. **Mini-supernovae from white dwarf–neutron star mergers: Viewing-angle-dependent spectra and light curves** 
+5. **Mini-supernovae from white dwarf–neutron star mergers: Viewing-angle-dependent spectra and light curves** 
   <br>
   <br>
   <span style="color: #007DD9; font-weight: bold;">Y. Kang<sup> * </sup> </span>, J.-P. Zhu<sup> * </sup>, L. Shao<sup> * </sup>, J. Zhong, J. Zhang, B. Zhang.
@@ -55,7 +63,7 @@ I also list my publications below for consistency (* marks the corresponding aut
   <br>
   [Astron. & Astrophys. 706 (2026) A106](https://www.aanda.org/articles/aa/full_html/2026/02/aa56971-25/aa56971-25.html)
 
-5. **Lightcurve features of magnetar-powered superluminous supernovae with gravitational-wave emission and high-energy leakage** 
+6. **Lightcurve features of magnetar-powered superluminous supernovae with gravitational-wave emission and high-energy leakage** 
   <br>
   <br>
   J. Zhang, <font color="#007DD9"><b>Y. Kang<sup> * </sup></b></font>, J. Zhong, H.-B. Li<sup> * </sup>, L.-D. Liu, Y.-W. Yu, <nobr>L. Shao<sup>*</sup></nobr>.
