@@ -10,6 +10,14 @@ header:
     overlay_filter: 0.1 
 ---
 
+# 2026
+
+* **Asia-Pacific Regional IAU Meeting (APRIM2026) (HongKong, China)**
+  <br>
+  <br>
+  <span style="color: #007DD9; font-weight: bold;">Oral Presentation:</span> Multimessenger studies of white dwarf–neutron star mergers
+  <br><font color="#CF4C73"><b>(May 2026)</b></font>
+  
 # 2025
 
 * **The 7th National Workshop on Multi-wavelength Studies of X-ray Binaries (Guiyang, Guizhou, China)**
