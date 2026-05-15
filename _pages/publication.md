@@ -45,7 +45,7 @@ I also list my publications below for consistency (* marks the corresponding aut
   J. Zhong, Q.-H. Chen, <font color="#007DD9"><b>Y. Kang<sup> * </sup></b></font>, H.-B. Li, J. Zhang, M.-H. Chen, <nobr>L. Shao<sup>*</sup></nobr>.
   <br>
   <br>
-  [Accepted by A&A](https://arxiv.org/abs/2603.10500)
+  [Astron. & Astrophys. 709 (2026) A195](https://www.aanda.org/articles/aa/full_html/2026/05/aa59203-26/aa59203-26.html)
 
 4. **Thermal deformation in super-Eddington magnetized neutron stars: Implications for continuous gravitational-wave detectability** 
   <br>
