@@ -37,7 +37,7 @@ I also list my publications below for consistency (* marks the corresponding aut
    W.-F. Feng<sup> * </sup>, T. Liu, Y. Fang, <span style="color: #007DD9; font-weight: bold;">Y. Kang</span>, B. Liu, L. Shao<sup> * </sup>.
   <br>
   <br>
-  [Accepted by ApJL](https://arxiv.org/abs/2602.10928)
+  [Astrophys. J. Lett. 1003 (2026) L35](https://iopscience.iop.org/article/10.3847/2041-8213/ae6b6a)
 
 3. **Novae breves from magnetar giant flares: Potential probes of neutron star crusts** 
   <br>
