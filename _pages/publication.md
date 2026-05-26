@@ -17,7 +17,7 @@ In the online database:
 </span>
 <br>
 <br>
-I also list my publications below for consistency (* marks the corresponding author).
+I also list my publications below for consistency (* marks the corresponding author, and † indicating equal contribution).
 </p>
 <hr style="border:1px solid gray">
 
@@ -86,7 +86,7 @@ I also list my publications below for consistency (* marks the corresponding aut
 2. **Radio observations point to a moderately relativistic outflow in the fast X-ray transient EP241021a** 
   <br>
   <br>
-  M. Yadav<sup> * </sup>, E. Troja, R. Ricci, Y.-H. Yang, P. Veres, M. H. Wieringa, <nobr>B. O'Connor</nobr>, <font color="#007DD9"><b>Y. Kang</b></font>, R. L. Becerra, G. Ryan, M. Busmann.
+  M. Yadav, E. Troja, R. Ricci, Y.-H. Yang, P. Veres, M. H. Wieringa, <nobr>B. O'Connor</nobr>, <font color="#007DD9"><b>Y. Kang</b></font>, R. L. Becerra, G. Ryan, M. Busmann.
   <br>
   <br>
   [Astrophys. J. 995 (2025) 216](https://iopscience.iop.org/article/10.3847/1538-4357/ae1746)
@@ -114,7 +114,7 @@ I also list my publications below for consistency (* marks the corresponding aut
 1. **Formation of GW230529 from isolated binary evolution** 
   <br>
   <br>
-  J.-P. Zhu<sup> * </sup>, R.-C. Hu<sup> * </sup>, <font color="#007DD9"><b>Y. Kang</b></font>, B. Zhang, H. Tong, L. Shao, Y. Qin.
+  J.-P. Zhu<sup> †,* </sup>, R.-C. Hu<sup> †,* </sup>, <font color="#007DD9"><b>Y. Kang</b></font>, B. Zhang, H. Tong, L. Shao, Y. Qin.
   <br>
   <br>
   [Astrophys. J. 974 (2024) 211](https://iopscience.iop.org/article/10.3847/1538-4357/ad72f0)
