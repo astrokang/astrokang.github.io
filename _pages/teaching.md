@@ -29,12 +29,12 @@ header:
 
 <hr style="border:1px solid gray">
 
-* <span style="color: #007DD9; font-weight: bold;">Electrodynamics (A)</span> in Peking University, [Prof. Lijing Shao](http://friendshao.github.io/about/)
+* <span style="color: #007DD9; font-weight: bold;">Electrodynamics (A)</span> in Peking University, [[Prof. Lijing Shao](http://friendshao.github.io/about/)]
   <br><font color="#CF4C73"><b>(Fall 2025)</b></font>
   
-* <span style="color: #007DD9; font-weight: bold;">Theoretical Mechanics (A)</span> in Peking University, [Prof. Lijing Shao](http://friendshao.github.io/about/)
+* <span style="color: #007DD9; font-weight: bold;">Theoretical Mechanics (A)</span> in Peking University, [[Prof. Lijing Shao](http://friendshao.github.io/about/)]
   <br><font color="#CF4C73"><b>(Spring 2024)</b></font>
 
-* <span style="color: #007DD9; font-weight: bold;">Radiative Processes in Astrophysics</span> in Peking University, [<nobr>Prof. Zhuo Li</nobr>](https://faculty.pku.edu.cn/lizhuo1/zh_CN/index/7734/list/index.htm)
+* <span style="color: #007DD9; font-weight: bold;">Radiative Processes in Astrophysics</span> in Peking University, [[<nobr>Prof. Zhuo Li</nobr>]](https://faculty.pku.edu.cn/lizhuo1/zh_CN/index/7734/list/index.htm)
   <br><font color="#CF4C73"><b>(Fall 2023)</b></font>
 
