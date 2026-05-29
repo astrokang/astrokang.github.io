@@ -49,6 +49,11 @@ header:
 
 <hr style="border:1px solid gray">
 
+# 2026
+
+* 2025-2026 <span style="color: #007DD9; font-weight: bold;">President Scholarship</span> for PhD Students in Peking University
+  <br><font color="#CF4C73"><b>(June 2026)</b></font>
+  
 # 2025
 
 * 2024-2025 <span style="color: #007DD9; font-weight: bold;">Merit Student</span> in Peking University
@@ -104,7 +109,7 @@ header:
 
 # 2021
 
-* <span style="color: #007DD9; font-weight: bold;">First Prize</span> of Lin-bridge Prize for Excellent Undergraduate Research Projects in Astronomy and Astrophysics, Peking University
+* <span style="color: #007DD9; font-weight: bold;">First Prize</span> of Lin-Bridge Endowment for Excellent Undergraduate Research Projects in Astronomy and Astrophysics, Peking University
   <br><font color="#CF4C73"><b>(Sep. 2022)</b></font>
 
 
