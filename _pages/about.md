@@ -11,7 +11,7 @@ header:
 ---
 
 <p align="center">
-  <img src="{{ site.url }}/images/kyc_2.png" width="350">
+  <img src="{{ site.url }}/images/kyc_2.png" width="300">
 </p>
 
 
