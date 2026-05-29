@@ -10,8 +10,9 @@ header:
    overlay_filter: 0.3
 ---
 
-![]({{ site.url }}/images/kyc_2.png)
-{: .align-right style="width: 300px"} 
+<p align="center">
+  <img src="{{ site.url }}/images/kyc_2.png" width="260">
+</p>
 
 Welcome to my website! 
 
