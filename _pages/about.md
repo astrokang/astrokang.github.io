@@ -17,8 +17,8 @@ header:
 
 <div style="text-align: justify;">
 
-<p>
-Welcome to my website! 
+<p align="center">
+Welcome to my website!
 </p>
 
 <p>
