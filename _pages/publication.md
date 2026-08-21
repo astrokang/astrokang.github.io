@@ -29,7 +29,7 @@ I also list my publications below for consistency (* marks the corresponding aut
    Y. Dong, <span style="color: #007DD9; font-weight: bold;">Y. Kang</span>, J. Zhao, X. Zhu, Z. Wang, L. Shao<sup> * </sup>.
   <br>
   <br>
-  [The Innovation 7 (2026) 101538](https://www.sciencedirect.com/science/article/pii/S2666675826002857)
+  [Innovation 7 (2026) 101538](https://www.sciencedirect.com/science/article/pii/S2666675826002857)
 
 2. **An enhanced formation channel for galactic dual-line gravitational-wave sources: von Zeipel-Lidov-Kozai effect in triples involving Sgr A*** 
   <br>
