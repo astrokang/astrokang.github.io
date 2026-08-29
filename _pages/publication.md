@@ -23,7 +23,15 @@ I also list my publications below for consistency (* marks the corresponding aut
 
 # 2026
 
-1. **An agentic framework for gravitational-wave counterpart association in the multi-messenger era** 
+1. **GW231123: Listening to an extreme black hole merger from the depths of the universe (in Chinese)** 
+  <br>
+  <br>
+   <span style="color: #007DD9; font-weight: bold;">Y. Kang<sup> * </sup> </span>, and L. Shao.
+  <br>
+  <br>
+  [Modern Physics 38 (2026) 49](http://mp.ihep.ac.cn/article/id/5768bc69-b11e-4add-b44a-52a116dc342e)
+
+2. **An agentic framework for gravitational-wave counterpart association in the multi-messenger era** 
   <br>
   <br>
    Y. Dong, <span style="color: #007DD9; font-weight: bold;">Y. Kang</span>, J. Zhao, X. Zhu, Z. Wang, L. Shao<sup> * </sup>.
@@ -31,7 +39,7 @@ I also list my publications below for consistency (* marks the corresponding aut
   <br>
   [Innovation 7 (2026) 101538](https://www.sciencedirect.com/science/article/pii/S2666675826002857)
 
-2. **An enhanced formation channel for galactic dual-line gravitational-wave sources: von Zeipel-Lidov-Kozai effect in triples involving Sgr A*** 
+3. **An enhanced formation channel for galactic dual-line gravitational-wave sources: von Zeipel-Lidov-Kozai effect in triples involving Sgr A*** 
   <br>
   <br>
    W.-F. Feng<sup> * </sup>, T. Liu, Y. Fang, <span style="color: #007DD9; font-weight: bold;">Y. Kang</span>, B. Liu, L. Shao<sup> * </sup>.
@@ -39,7 +47,7 @@ I also list my publications below for consistency (* marks the corresponding aut
   <br>
   [Astrophys. J. Lett. 1003 (2026) L35](https://iopscience.iop.org/article/10.3847/2041-8213/ae6b6a)
 
-3. **Novae breves from magnetar giant flares: Potential probes of neutron star crusts** 
+4. **Novae breves from magnetar giant flares: Potential probes of neutron star crusts** 
   <br>
   <br>
   J. Zhong, Q.-H. Chen, <font color="#007DD9"><b>Y. Kang<sup> * </sup></b></font>, H.-B. Li, J. Zhang, M.-H. Chen, <nobr>L. Shao<sup>*</sup></nobr>.
@@ -47,7 +55,7 @@ I also list my publications below for consistency (* marks the corresponding aut
   <br>
   [Astron. & Astrophys. 709 (2026) A195](https://www.aanda.org/articles/aa/full_html/2026/05/aa59203-26/aa59203-26.html)
 
-4. **Thermal deformation in super-Eddington magnetized neutron stars: Implications for continuous gravitational-wave detectability** 
+5. **Thermal deformation in super-Eddington magnetized neutron stars: Implications for continuous gravitational-wave detectability** 
   <br>
   <br>
   H.-B. Li<sup> * </sup>, <font color="#007DD9"><b>Y. Kang<sup> * </sup></b></font>, R. Xu<sup> * </sup>.
@@ -55,7 +63,7 @@ I also list my publications below for consistency (* marks the corresponding aut
   <br>
   [Astrophys. J. 1002 (2026) 87](https://iopscience.iop.org/article/10.3847/1538-4357/ae5b66)
 
-5. **Mini-supernovae from white dwarf–neutron star mergers: Viewing-angle-dependent spectra and light curves** 
+6. **Mini-supernovae from white dwarf–neutron star mergers: Viewing-angle-dependent spectra and light curves** 
   <br>
   <br>
   <span style="color: #007DD9; font-weight: bold;">Y. Kang<sup> * </sup> </span>, J.-P. Zhu<sup> * </sup>, L. Shao<sup> * </sup>, J. Zhong, J. Zhang, B. Zhang.
@@ -63,7 +71,7 @@ I also list my publications below for consistency (* marks the corresponding aut
   <br>
   [Astron. & Astrophys. 706 (2026) A106](https://www.aanda.org/articles/aa/full_html/2026/02/aa56971-25/aa56971-25.html)
 
-6. **Lightcurve features of magnetar-powered superluminous supernovae with gravitational-wave emission and high-energy leakage** 
+7. **Lightcurve features of magnetar-powered superluminous supernovae with gravitational-wave emission and high-energy leakage** 
   <br>
   <br>
   J. Zhang, <font color="#007DD9"><b>Y. Kang<sup> * </sup></b></font>, J. Zhong, H.-B. Li<sup> * </sup>, L.-D. Liu, Y.-W. Yu, <nobr>L. Shao<sup>*</sup></nobr>.
@@ -81,7 +89,7 @@ I also list my publications below for consistency (* marks the corresponding aut
   S.-X. Yi <sup> * </sup>, ..., <span style="color: #007DD9; font-weight: bold;">Y. Kang</span>, ..., L. de Sá.
   <br>
   <br>
-  [Sci. China Phys. Mech. Astron. 68 (2025) 119506](https://link.springer.com/article/10.1007/s11433-025-2782-2)
+  [Sci. China-Phys. Mech. Astron. 68 (2025) 119506](https://link.springer.com/article/10.1007/s11433-025-2782-2)
 
 2. **Radio observations point to a moderately relativistic outflow in the fast X-ray transient EP241021a** 
   <br>
@@ -155,7 +163,7 @@ I also list my publications below for consistency (* marks the corresponding aut
   <span style="color: #007DD9; font-weight: bold;">Y. Kang</span>, C. Liu, J.-P. Zhu, L. Shao<sup> * </sup>.
   <br>
   <br>
-  [Sci. China-Phys. Mech. Astron. 53 (2023) 100014](https://www.sciengine.com/SSPMA/doi/10.1360/SSPMA-2022-0428;JSESSIONID=848edc33-f613-47f1-a9ec-cc9d59efda9a)
+  [Sci. Sin.-Phys. Mech. Astron. 53 (2023) 100014](https://www.sciengine.com/SSPMA/doi/10.1360/SSPMA-2022-0428;JSESSIONID=848edc33-f613-47f1-a9ec-cc9d59efda9a)
 
 4. **GRB 211211A-like events and how gravitational waves may tell their origin** 
   <br>
