@@ -29,7 +29,7 @@ I also list my publications below for consistency (* marks the corresponding aut
    <span style="color: #007DD9; font-weight: bold;">Y. Kang<sup> * </sup> </span>, and L. Shao.
   <br>
   <br>
-  [Modern Physics 38 (2026) 49](http://mp.ihep.ac.cn/article/id/5768bc69-b11e-4add-b44a-52a116dc342e)
+  [Mod. Phys. 38 (2026) 49](http://mp.ihep.ac.cn/article/id/5768bc69-b11e-4add-b44a-52a116dc342e)
 
 2. **An agentic framework for gravitational-wave counterpart association in the multi-messenger era** 
   <br>
