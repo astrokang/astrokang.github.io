@@ -163,7 +163,7 @@ I also list my publications below for consistency (* marks the corresponding aut
   <span style="color: #007DD9; font-weight: bold;">Y. Kang</span>, C. Liu, J.-P. Zhu, L. Shao<sup> * </sup>.
   <br>
   <br>
-  [Sci. Sin.-Phys. Mech. Astron. 53 (2023) 100014](https://www.sciengine.com/SSPMA/doi/10.1360/SSPMA-2022-0428;JSESSIONID=848edc33-f613-47f1-a9ec-cc9d59efda9a)
+  [Sci. Sin.-Phys. Mech. Astron. 53 (2023) 100014](https://www.sciengine.com/SSPMA/doi/10.1360/SSPMA-2022-0428)
 
 4. **GRB 211211A-like events and how gravitational waves may tell their origin** 
   <br>
