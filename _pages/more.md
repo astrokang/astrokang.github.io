@@ -51,8 +51,8 @@ header:
 
 # 2026
 
-* 2025-2026 <span style="color: #007DD9; font-weight: bold;">President Scholarship</span> for PhD Students in Peking University
-  <br><font color="#CF4C73"><b>(June 2026)</b></font>
+* 2026-2027 <span style="color: #007DD9; font-weight: bold;">President Scholarship</span> for PhD Students in Peking University
+  <br><font color="#CF4C73"><b>(Sep. 2026)</b></font>
   
 # 2025
 
@@ -77,8 +77,8 @@ header:
 * 2022-2023 <span style="color: #007DD9; font-weight: bold;">Merit Student</span> in Peking University
   <br><font color="#CF4C73"><b>(Dec. 2023)</b></font>
   
-* 2022-2023 <span style="color: #007DD9; font-weight: bold;">President Scholarship</span> for PhD Students in Peking University
-  <br><font color="#CF4C73"><b>(June 2023)</b></font>
+* 2023-2024 <span style="color: #007DD9; font-weight: bold;">President Scholarship</span> for PhD Students in Peking University
+  <br><font color="#CF4C73"><b>(Sep. 2023)</b></font>
 
 <hr style="border:1px solid gray">
 
